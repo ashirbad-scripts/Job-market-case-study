@@ -1,0 +1,2001 @@
+job_id,industry,job_title,experience_level,employment_type,salary_min_usd,salary_max_usd,posted_date,company_size
+1,Healthcare,Data Analyst,Mid,Full-time,92860,109598,20-08-2025,Large
+2,Tech,Computer Vision Engineer,Senior,Full-time,78523,144875,22-03-2024,Large
+3,Tech,Quant Researcher,Entry,Full-time,124496,217204,18-09-2025,Large
+4,Tech,AI Product Manager,Mid,Full-time,50908,123743,08-05-2024,Large
+5,Finance,Data Scientist,Senior,Contract,98694,135413,24-02-2025,Large
+6,E-commerce,AI Product Manager,Senior,Remote,92632,180718,07-08-2025,Large
+7,Automotive,Data Analyst,Mid,Full-time,70575,88594,23-12-2024,Large
+8,Education,Data Scientist,Entry,Internship,63032,82144,14-08-2024,Large
+9,Healthcare,ML Engineer,Entry,Internship,134239,188504,15-09-2025,Large
+10,Automotive,Computer Vision Engineer,Senior,Full-time,79361,165029,07-08-2025,Large
+11,Tech,Data Scientist,Entry,Internship,99964,125971,10-01-2024,Large
+12,Finance,ML Engineer,Entry,Full-time,63583,132670,15-03-2024,Large
+13,E-commerce,NLP Engineer,Entry,Full-time,102770,117026,27-09-2023,Startup
+14,Retail,Quant Researcher,Senior,Full-time,137004,193975,20-11-2024,Mid
+15,Education,NLP Engineer,Mid,Remote,129842,216741,08-07-2024,Large
+16,Automotive,NLP Engineer,Senior,Remote,124669,217866,06-04-2024,Startup
+17,E-commerce,ML Engineer,Entry,Full-time,137523,180097,14-05-2025,Mid
+18,Automotive,AI Product Manager,Entry,Internship,138184,192857,29-04-2024,Startup
+19,Healthcare,Data Scientist,Senior,Remote,100845,159745,19-10-2024,Mid
+20,E-commerce,ML Engineer,Mid,Internship,115578,207180,29-08-2024,Large
+21,Retail,Quant Researcher,Entry,Remote,122521,175168,19-01-2024,Large
+22,Retail,Quant Researcher,Entry,Full-time,62483,105216,28-12-2023,Large
+23,E-commerce,NLP Engineer,Mid,Remote,74317,148899,25-11-2024,Startup
+24,Tech,NLP Engineer,Senior,Internship,68115,125323,06-12-2023,Mid
+25,Healthcare,NLP Engineer,Mid,Internship,89840,109693,13-06-2025,Mid
+26,Finance,NLP Engineer,Mid,Remote,107786,126713,20-12-2024,Mid
+27,Education,Quant Researcher,Senior,Internship,44309,77284,02-01-2025,Large
+28,Healthcare,Data Analyst,Entry,Contract,124616,172767,28-02-2025,Startup
+29,Finance,Data Analyst,Mid,Internship,142616,216391,31-01-2025,Startup
+30,Finance,Data Analyst,Entry,Contract,70932,161568,07-06-2024,Startup
+31,Tech,Quant Researcher,Senior,Full-time,54565,94461,27-06-2024,Startup
+32,Healthcare,Data Scientist,Entry,Full-time,112660,179478,22-09-2023,Mid
+33,Tech,AI Product Manager,Mid,Contract,55330,104941,30-09-2024,Startup
+34,Finance,NLP Engineer,Senior,Internship,110439,183071,25-11-2023,Startup
+35,Automotive,Computer Vision Engineer,Entry,Contract,97714,134140,01-04-2024,Large
+36,Finance,Computer Vision Engineer,Mid,Remote,87250,156869,25-12-2023,Startup
+37,Retail,AI Researcher,Entry,Contract,77074,163272,16-11-2024,Mid
+38,E-commerce,ML Engineer,Mid,Remote,116061,159814,14-05-2025,Startup
+39,Retail,Data Scientist,Senior,Internship,87411,136106,10-06-2024,Mid
+40,Automotive,Data Analyst,Entry,Internship,88562,159008,27-06-2025,Mid
+41,E-commerce,Quant Researcher,Senior,Remote,41935,95608,08-02-2025,Mid
+42,E-commerce,NLP Engineer,Mid,Full-time,126443,145937,10-11-2023,Startup
+43,Healthcare,AI Product Manager,Entry,Full-time,99978,189975,05-09-2024,Large
+44,Education,Quant Researcher,Entry,Contract,65214,151832,11-03-2025,Large
+45,Automotive,Quant Researcher,Mid,Internship,71101,158421,16-03-2025,Mid
+46,Healthcare,ML Engineer,Entry,Internship,119200,129563,14-02-2025,Startup
+47,Finance,Data Scientist,Mid,Contract,122083,203812,04-08-2024,Startup
+48,Automotive,Computer Vision Engineer,Entry,Contract,144773,159408,21-02-2025,Mid
+49,Education,NLP Engineer,Entry,Remote,78317,161397,19-03-2024,Mid
+50,Finance,NLP Engineer,Mid,Full-time,75575,120477,07-05-2024,Large
+51,E-commerce,AI Product Manager,Entry,Full-time,133185,231638,27-09-2023,Large
+52,E-commerce,Computer Vision Engineer,Entry,Contract,73140,164506,30-05-2025,Mid
+53,Finance,Data Scientist,Mid,Contract,69031,115150,17-05-2025,Large
+54,Tech,Quant Researcher,Mid,Full-time,49382,141727,09-11-2024,Large
+55,Healthcare,Quant Researcher,Senior,Full-time,135916,233596,10-11-2024,Startup
+56,Tech,ML Engineer,Senior,Remote,149271,215582,23-04-2025,Startup
+57,Education,Data Analyst,Entry,Internship,56348,123497,16-11-2023,Mid
+58,Retail,ML Engineer,Senior,Full-time,69159,139847,11-02-2025,Large
+59,Tech,AI Researcher,Senior,Remote,78305,162525,21-06-2025,Large
+60,Finance,AI Product Manager,Mid,Internship,64238,115477,25-09-2023,Startup
+61,Finance,Data Analyst,Senior,Remote,53583,148644,27-06-2024,Mid
+62,Retail,AI Product Manager,Entry,Remote,50457,126635,08-05-2024,Startup
+63,Retail,Computer Vision Engineer,Mid,Internship,97883,172449,26-10-2024,Large
+64,E-commerce,AI Product Manager,Entry,Remote,94965,141198,17-02-2025,Startup
+65,E-commerce,AI Researcher,Entry,Internship,81202,154117,06-01-2025,Startup
+66,Retail,AI Researcher,Mid,Contract,106117,199125,19-12-2023,Large
+67,Automotive,AI Product Manager,Senior,Internship,137229,193525,08-04-2024,Large
+68,Retail,Data Analyst,Senior,Remote,40995,54162,21-12-2024,Startup
+69,Healthcare,Data Analyst,Mid,Full-time,129140,193460,09-12-2023,Mid
+70,Education,Data Analyst,Mid,Full-time,86690,120765,15-06-2025,Mid
+71,Retail,ML Engineer,Entry,Internship,85816,149983,12-03-2025,Mid
+72,Healthcare,Quant Researcher,Senior,Remote,60805,99890,12-02-2024,Startup
+73,Education,Data Analyst,Senior,Remote,118377,137651,02-05-2025,Large
+74,Automotive,NLP Engineer,Mid,Internship,81382,175328,28-11-2023,Large
+75,Automotive,ML Engineer,Senior,Remote,132555,209536,09-09-2025,Startup
+76,Automotive,AI Researcher,Mid,Contract,54185,86768,06-12-2023,Mid
+77,E-commerce,AI Researcher,Mid,Internship,101020,182230,03-07-2025,Startup
+78,E-commerce,NLP Engineer,Mid,Internship,49529,68621,21-02-2024,Startup
+79,Tech,Quant Researcher,Entry,Contract,88756,103530,12-10-2024,Startup
+80,Healthcare,ML Engineer,Senior,Internship,108574,194850,20-01-2025,Large
+81,Education,AI Researcher,Mid,Internship,111184,166588,03-08-2025,Large
+82,Finance,Data Analyst,Entry,Full-time,120456,210505,14-01-2024,Large
+83,Finance,AI Product Manager,Entry,Internship,86740,124608,17-09-2025,Mid
+84,Education,Data Analyst,Entry,Full-time,78116,122008,25-04-2025,Mid
+85,E-commerce,Computer Vision Engineer,Mid,Contract,42962,75277,01-11-2024,Startup
+86,Tech,Data Analyst,Senior,Full-time,51640,64834,21-03-2024,Large
+87,Education,Quant Researcher,Mid,Contract,98118,167073,10-09-2024,Large
+88,Finance,Quant Researcher,Mid,Internship,140819,222611,16-11-2023,Mid
+89,Finance,AI Researcher,Entry,Internship,82496,127505,23-03-2025,Startup
+90,Finance,AI Researcher,Entry,Internship,124249,174855,17-10-2023,Startup
+91,Automotive,NLP Engineer,Mid,Contract,81426,145890,19-10-2023,Mid
+92,Tech,Data Scientist,Entry,Internship,51104,130405,21-03-2025,Large
+93,Finance,NLP Engineer,Entry,Remote,143177,155682,26-08-2025,Startup
+94,Education,NLP Engineer,Mid,Remote,139393,162837,13-07-2025,Large
+95,Healthcare,ML Engineer,Entry,Full-time,111746,137892,10-10-2024,Mid
+96,Healthcare,Computer Vision Engineer,Senior,Full-time,107083,124486,09-08-2025,Startup
+97,Education,AI Researcher,Senior,Full-time,126865,190621,15-11-2024,Startup
+98,Finance,Computer Vision Engineer,Mid,Contract,127896,227744,18-12-2023,Large
+99,Healthcare,Data Analyst,Entry,Contract,133789,170501,22-05-2024,Large
+100,Retail,Computer Vision Engineer,Mid,Contract,126422,179630,03-09-2025,Mid
+101,Healthcare,ML Engineer,Entry,Contract,53156,131761,22-07-2025,Startup
+102,Retail,Data Scientist,Senior,Internship,76985,169306,09-08-2025,Large
+103,Education,Quant Researcher,Entry,Full-time,129308,160166,26-02-2025,Mid
+104,Finance,Data Scientist,Senior,Internship,112263,190554,21-03-2025,Mid
+105,E-commerce,NLP Engineer,Entry,Contract,147332,158887,19-11-2024,Mid
+106,Automotive,Computer Vision Engineer,Mid,Full-time,54559,121736,04-04-2025,Mid
+107,Healthcare,Computer Vision Engineer,Senior,Remote,91427,154726,03-10-2023,Mid
+108,Tech,AI Product Manager,Senior,Contract,120983,167455,30-03-2025,Large
+109,Education,ML Engineer,Mid,Contract,108083,168433,06-02-2024,Large
+110,Healthcare,Quant Researcher,Mid,Contract,43248,86711,20-06-2024,Mid
+111,Education,AI Researcher,Entry,Remote,73459,87186,08-09-2024,Large
+112,Healthcare,AI Researcher,Mid,Contract,94345,157493,24-07-2024,Large
+113,Healthcare,NLP Engineer,Mid,Full-time,113621,179602,28-08-2024,Mid
+114,Finance,Data Scientist,Entry,Full-time,43828,137950,20-05-2025,Mid
+115,Tech,Quant Researcher,Senior,Remote,118046,186961,17-06-2025,Startup
+116,Education,NLP Engineer,Entry,Full-time,143236,210339,17-03-2024,Large
+117,Automotive,Data Analyst,Entry,Contract,70478,154317,07-05-2025,Large
+118,E-commerce,Data Analyst,Mid,Internship,69403,123368,05-04-2024,Startup
+119,Automotive,NLP Engineer,Mid,Contract,143437,196807,01-01-2024,Mid
+120,Retail,NLP Engineer,Entry,Contract,59290,84926,10-08-2025,Mid
+121,Retail,AI Researcher,Mid,Remote,124112,141184,08-10-2024,Mid
+122,Finance,AI Researcher,Entry,Contract,93411,137526,10-07-2024,Large
+123,Finance,Computer Vision Engineer,Senior,Contract,98592,132404,08-10-2024,Startup
+124,E-commerce,Quant Researcher,Mid,Internship,109693,136678,31-10-2023,Large
+125,E-commerce,NLP Engineer,Mid,Full-time,128381,173902,03-08-2025,Startup
+126,Tech,Computer Vision Engineer,Mid,Remote,114132,129565,07-04-2025,Large
+127,Finance,Quant Researcher,Mid,Contract,117985,188287,10-03-2024,Large
+128,Finance,AI Product Manager,Entry,Remote,98649,172840,22-11-2024,Large
+129,Retail,NLP Engineer,Mid,Remote,132259,223631,31-12-2024,Mid
+130,Education,Data Analyst,Senior,Internship,92116,122876,11-03-2025,Startup
+131,E-commerce,NLP Engineer,Entry,Internship,111421,135658,23-09-2024,Large
+132,Healthcare,NLP Engineer,Mid,Remote,64185,77841,09-02-2025,Large
+133,Automotive,AI Researcher,Senior,Contract,114287,213324,23-04-2025,Mid
+134,Automotive,AI Researcher,Senior,Internship,67967,136114,01-09-2025,Mid
+135,Healthcare,Data Analyst,Entry,Full-time,119699,195649,29-02-2024,Mid
+136,Finance,NLP Engineer,Senior,Remote,105893,197119,30-12-2024,Mid
+137,Education,Computer Vision Engineer,Mid,Full-time,144509,185639,02-09-2024,Mid
+138,Finance,AI Product Manager,Senior,Contract,125979,196585,05-03-2024,Startup
+139,Healthcare,AI Product Manager,Mid,Full-time,96804,161412,14-01-2024,Large
+140,Retail,Data Analyst,Senior,Contract,145387,192153,26-08-2025,Startup
+141,Automotive,Quant Researcher,Entry,Contract,44646,126597,07-06-2025,Large
+142,Healthcare,ML Engineer,Mid,Remote,61799,124735,14-05-2024,Startup
+143,Healthcare,AI Product Manager,Entry,Remote,142495,193478,04-04-2025,Large
+144,Education,Data Scientist,Mid,Contract,52111,123116,05-01-2024,Startup
+145,Retail,Data Analyst,Entry,Contract,68548,93154,30-07-2024,Mid
+146,Education,ML Engineer,Entry,Contract,82795,123262,10-03-2025,Large
+147,E-commerce,AI Researcher,Entry,Internship,94239,122634,17-08-2025,Mid
+148,Retail,NLP Engineer,Mid,Remote,64790,95818,19-12-2023,Large
+149,E-commerce,Data Analyst,Senior,Remote,133389,145372,17-09-2025,Startup
+150,Automotive,Computer Vision Engineer,Senior,Internship,112241,126511,28-12-2024,Mid
+151,Education,AI Researcher,Mid,Remote,66955,108050,08-03-2024,Startup
+152,E-commerce,ML Engineer,Mid,Internship,84480,167599,21-03-2024,Mid
+153,Finance,AI Product Manager,Mid,Contract,74795,159585,14-12-2023,Mid
+154,Education,AI Researcher,Mid,Internship,128089,227314,27-07-2024,Startup
+155,Healthcare,NLP Engineer,Mid,Contract,59563,117049,04-06-2024,Mid
+156,Automotive,Data Analyst,Senior,Remote,124014,215657,23-11-2024,Startup
+157,Education,Computer Vision Engineer,Senior,Internship,82670,112083,23-06-2025,Startup
+158,Education,NLP Engineer,Senior,Remote,99523,190227,02-01-2025,Mid
+159,Finance,Quant Researcher,Mid,Contract,63560,115745,14-09-2025,Large
+160,Education,Data Analyst,Mid,Contract,96246,127172,16-03-2025,Large
+161,Education,Quant Researcher,Mid,Internship,133411,230008,05-02-2024,Mid
+162,Healthcare,NLP Engineer,Senior,Contract,44241,67386,04-12-2023,Large
+163,Education,ML Engineer,Mid,Internship,42621,93559,16-03-2025,Startup
+164,Finance,NLP Engineer,Entry,Remote,75069,172405,06-08-2025,Mid
+165,Healthcare,AI Product Manager,Mid,Full-time,110005,156652,14-04-2025,Large
+166,Healthcare,Computer Vision Engineer,Senior,Internship,127733,156796,16-09-2025,Large
+167,Tech,Computer Vision Engineer,Senior,Internship,81580,132667,16-04-2024,Startup
+168,Automotive,Data Analyst,Entry,Internship,46318,73935,18-10-2024,Mid
+169,Finance,Data Analyst,Entry,Full-time,83360,173396,11-12-2024,Startup
+170,E-commerce,ML Engineer,Mid,Remote,50841,149011,02-05-2025,Mid
+171,E-commerce,AI Product Manager,Senior,Internship,84196,183723,15-03-2025,Startup
+172,Tech,AI Researcher,Mid,Contract,92704,181511,25-05-2024,Mid
+173,Tech,Data Scientist,Entry,Internship,61245,133612,31-01-2024,Mid
+174,Retail,AI Product Manager,Mid,Internship,91839,153147,01-08-2024,Large
+175,Tech,AI Product Manager,Entry,Contract,65330,149814,24-01-2025,Mid
+176,Automotive,NLP Engineer,Mid,Contract,142316,210339,21-01-2025,Mid
+177,Finance,Quant Researcher,Mid,Internship,86369,153860,29-04-2025,Mid
+178,Healthcare,AI Product Manager,Senior,Full-time,123834,203953,01-08-2025,Startup
+179,Automotive,AI Product Manager,Mid,Remote,86874,127959,07-10-2024,Mid
+180,Retail,AI Researcher,Entry,Internship,91853,143054,22-02-2024,Startup
+181,E-commerce,Data Analyst,Senior,Remote,115282,183026,23-05-2025,Large
+182,Finance,NLP Engineer,Mid,Internship,100075,181375,08-06-2024,Startup
+183,Healthcare,AI Researcher,Entry,Internship,84286,155592,22-08-2024,Startup
+184,Automotive,Quant Researcher,Senior,Full-time,81464,148211,26-03-2024,Large
+185,Education,Computer Vision Engineer,Entry,Remote,142464,186808,29-01-2025,Mid
+186,E-commerce,Data Analyst,Entry,Contract,121357,161420,21-10-2024,Large
+187,Healthcare,AI Researcher,Mid,Full-time,126266,151205,20-01-2024,Large
+188,Retail,Computer Vision Engineer,Mid,Remote,43986,115213,14-09-2024,Large
+189,Automotive,Data Scientist,Entry,Internship,62157,96230,29-09-2024,Large
+190,Retail,AI Product Manager,Entry,Full-time,102546,120953,30-05-2024,Large
+191,Tech,Data Analyst,Mid,Internship,79611,163781,28-10-2024,Mid
+192,Education,AI Researcher,Senior,Full-time,142867,168105,25-01-2024,Mid
+193,Retail,ML Engineer,Mid,Contract,63520,101934,11-02-2024,Mid
+194,Retail,Data Scientist,Senior,Internship,116202,179210,19-05-2024,Large
+195,Healthcare,Quant Researcher,Mid,Internship,137620,173474,04-11-2023,Mid
+196,Retail,NLP Engineer,Entry,Internship,131485,218283,08-12-2024,Mid
+197,Tech,AI Product Manager,Entry,Internship,117341,158797,27-08-2024,Startup
+198,Automotive,Data Analyst,Entry,Internship,123706,167631,15-08-2024,Mid
+199,Tech,Quant Researcher,Mid,Contract,43828,96329,01-04-2024,Mid
+200,Education,AI Product Manager,Entry,Full-time,130984,170051,17-06-2025,Startup
+201,E-commerce,Data Scientist,Entry,Internship,125831,194965,31-12-2024,Large
+202,Finance,AI Product Manager,Entry,Contract,96628,121086,07-11-2024,Mid
+203,Finance,NLP Engineer,Entry,Remote,85788,132802,16-02-2024,Large
+204,Automotive,Quant Researcher,Mid,Internship,147975,247578,12-05-2025,Startup
+205,Automotive,Data Analyst,Entry,Contract,48226,90071,24-12-2024,Mid
+206,Healthcare,Data Scientist,Senior,Full-time,62447,129068,22-01-2025,Startup
+207,Retail,Computer Vision Engineer,Senior,Internship,110876,127413,18-05-2024,Large
+208,Education,AI Product Manager,Senior,Remote,85915,109356,13-10-2023,Startup
+209,Finance,AI Product Manager,Entry,Full-time,143326,161834,09-01-2024,Large
+210,Healthcare,Data Scientist,Senior,Full-time,89991,179017,01-01-2024,Mid
+211,E-commerce,Computer Vision Engineer,Senior,Remote,67897,156557,08-11-2023,Mid
+212,Finance,AI Product Manager,Entry,Remote,44318,101581,16-01-2024,Mid
+213,Tech,Data Analyst,Mid,Internship,67657,112933,31-12-2024,Mid
+214,Finance,Quant Researcher,Entry,Contract,97752,152521,29-01-2025,Large
+215,Automotive,Data Scientist,Entry,Internship,93403,169785,13-01-2024,Mid
+216,Automotive,NLP Engineer,Senior,Remote,143054,182950,08-01-2024,Mid
+217,E-commerce,Computer Vision Engineer,Entry,Internship,123977,182190,24-10-2023,Startup
+218,Finance,AI Researcher,Mid,Remote,108708,183957,09-07-2024,Large
+219,Tech,Quant Researcher,Entry,Contract,42431,121809,09-09-2024,Mid
+220,Automotive,AI Researcher,Entry,Full-time,129721,169068,16-03-2025,Startup
+221,Automotive,ML Engineer,Mid,Contract,51999,114433,06-11-2024,Mid
+222,E-commerce,Data Scientist,Senior,Full-time,133703,230141,20-06-2024,Large
+223,Education,Quant Researcher,Senior,Remote,75109,126693,17-06-2025,Large
+224,Automotive,Data Analyst,Senior,Contract,102227,124205,06-06-2024,Large
+225,Education,AI Researcher,Mid,Remote,77125,136585,08-09-2024,Mid
+226,Finance,Computer Vision Engineer,Senior,Internship,114539,151150,02-10-2024,Mid
+227,Retail,Quant Researcher,Entry,Contract,42773,105072,01-10-2023,Mid
+228,Finance,AI Researcher,Entry,Contract,122640,208762,13-05-2024,Mid
+229,Education,AI Product Manager,Mid,Full-time,90611,152714,23-04-2024,Mid
+230,Tech,AI Product Manager,Senior,Internship,61529,88876,16-12-2023,Mid
+231,Tech,AI Product Manager,Mid,Contract,62907,140660,19-04-2025,Mid
+232,Finance,AI Product Manager,Mid,Internship,87618,184731,01-05-2024,Mid
+233,Retail,Computer Vision Engineer,Senior,Full-time,129185,169420,11-04-2025,Startup
+234,Education,Data Analyst,Entry,Internship,127161,187759,21-12-2024,Startup
+235,Education,NLP Engineer,Senior,Remote,91557,109518,10-12-2023,Mid
+236,Tech,AI Product Manager,Entry,Remote,85776,173610,11-09-2024,Mid
+237,Automotive,AI Researcher,Senior,Internship,95255,160292,09-09-2024,Mid
+238,Automotive,AI Researcher,Senior,Remote,70536,137707,24-08-2024,Mid
+239,Finance,AI Product Manager,Entry,Remote,56526,149136,29-10-2023,Startup
+240,Finance,Quant Researcher,Senior,Remote,40077,124906,26-09-2023,Large
+241,Finance,Data Analyst,Entry,Remote,136304,175873,19-08-2025,Large
+242,Automotive,Computer Vision Engineer,Mid,Full-time,45264,63508,17-08-2025,Mid
+243,E-commerce,Computer Vision Engineer,Senior,Internship,70448,88238,05-05-2024,Startup
+244,Retail,Data Analyst,Senior,Internship,132241,182322,29-08-2024,Mid
+245,Finance,Data Scientist,Senior,Contract,97077,144023,13-12-2023,Mid
+246,E-commerce,Data Scientist,Senior,Internship,93070,155510,10-04-2024,Startup
+247,Education,Quant Researcher,Senior,Internship,110751,196979,18-10-2024,Mid
+248,Education,Data Scientist,Entry,Internship,57928,153531,29-05-2025,Mid
+249,Education,AI Product Manager,Entry,Internship,139669,235176,13-09-2024,Startup
+250,Education,Data Scientist,Mid,Full-time,76192,110813,25-12-2024,Mid
+251,Healthcare,AI Researcher,Mid,Remote,86522,144139,04-09-2024,Large
+252,Finance,NLP Engineer,Mid,Full-time,40634,94055,31-07-2024,Mid
+253,Education,Computer Vision Engineer,Entry,Remote,50432,62117,15-05-2025,Startup
+254,Retail,Data Scientist,Senior,Internship,92187,143257,28-05-2024,Startup
+255,Education,AI Product Manager,Mid,Full-time,139231,220256,21-03-2025,Startup
+256,Education,AI Product Manager,Entry,Remote,116281,126487,19-06-2024,Mid
+257,Healthcare,AI Product Manager,Senior,Internship,66964,130664,15-10-2024,Large
+258,Automotive,ML Engineer,Senior,Remote,72900,93392,21-10-2023,Mid
+259,Retail,AI Researcher,Senior,Full-time,122910,218807,09-04-2024,Startup
+260,E-commerce,NLP Engineer,Senior,Remote,60661,137033,14-08-2025,Mid
+261,Finance,Data Analyst,Entry,Full-time,51191,106210,02-09-2024,Large
+262,Education,Data Scientist,Entry,Contract,67972,161749,22-07-2025,Large
+263,Healthcare,Computer Vision Engineer,Mid,Internship,43847,66742,30-03-2025,Startup
+264,Automotive,Data Scientist,Mid,Remote,66723,83982,08-12-2024,Startup
+265,E-commerce,Data Analyst,Entry,Internship,149030,200926,18-02-2024,Mid
+266,Retail,Quant Researcher,Mid,Contract,42247,66979,13-11-2024,Startup
+267,Education,Data Analyst,Senior,Full-time,57957,133868,18-04-2025,Mid
+268,Retail,AI Product Manager,Mid,Remote,91662,156759,06-10-2024,Startup
+269,Healthcare,AI Researcher,Entry,Contract,123795,160363,19-08-2025,Startup
+270,Finance,AI Product Manager,Entry,Remote,92753,165745,19-08-2025,Startup
+271,E-commerce,AI Researcher,Mid,Internship,94406,130758,08-06-2025,Startup
+272,E-commerce,Computer Vision Engineer,Mid,Remote,105919,193927,03-02-2025,Large
+273,Education,Data Scientist,Entry,Internship,129469,211237,19-02-2024,Large
+274,Automotive,ML Engineer,Entry,Remote,68792,82411,14-06-2025,Large
+275,Education,AI Researcher,Mid,Contract,92739,133823,10-04-2025,Mid
+276,E-commerce,Computer Vision Engineer,Senior,Internship,85651,149208,29-04-2025,Startup
+277,Tech,Data Scientist,Senior,Contract,51635,124521,04-03-2025,Startup
+278,Tech,AI Product Manager,Mid,Contract,87231,97496,26-12-2023,Mid
+279,Tech,NLP Engineer,Entry,Contract,103271,157584,19-09-2025,Startup
+280,Automotive,Quant Researcher,Mid,Contract,43405,107147,14-02-2025,Large
+281,Tech,Data Analyst,Mid,Contract,55825,93053,26-04-2025,Mid
+282,Automotive,Data Analyst,Senior,Internship,96220,194055,13-12-2024,Mid
+283,Retail,Computer Vision Engineer,Entry,Contract,123561,166771,19-01-2024,Mid
+284,Finance,Data Scientist,Senior,Remote,91175,121911,03-08-2025,Large
+285,E-commerce,ML Engineer,Entry,Internship,84664,173228,12-09-2024,Startup
+286,Automotive,Data Analyst,Senior,Full-time,109743,171570,05-06-2025,Mid
+287,E-commerce,AI Researcher,Senior,Internship,55502,113844,22-02-2024,Startup
+288,Healthcare,Data Analyst,Entry,Contract,47355,136323,17-02-2025,Startup
+289,Retail,Quant Researcher,Senior,Remote,143690,196277,27-09-2024,Mid
+290,Tech,ML Engineer,Mid,Full-time,56560,97606,11-02-2025,Large
+291,Tech,AI Researcher,Mid,Contract,149782,235152,07-04-2025,Mid
+292,Automotive,AI Product Manager,Entry,Contract,127612,155925,22-10-2023,Large
+293,Education,AI Researcher,Entry,Full-time,78409,151342,12-06-2025,Mid
+294,Education,Data Analyst,Mid,Internship,149023,169526,11-09-2024,Large
+295,Healthcare,Quant Researcher,Senior,Full-time,64779,145970,20-04-2024,Startup
+296,Education,Data Analyst,Senior,Remote,69887,112524,22-10-2024,Large
+297,Retail,Data Scientist,Entry,Full-time,119337,178013,08-11-2024,Mid
+298,Tech,Data Analyst,Entry,Internship,139462,194245,14-01-2025,Large
+299,Automotive,ML Engineer,Entry,Internship,68689,117329,12-06-2024,Mid
+300,Automotive,AI Researcher,Mid,Contract,87545,175294,14-02-2025,Mid
+301,Finance,Data Scientist,Mid,Contract,96034,114094,04-10-2023,Mid
+302,Retail,Quant Researcher,Mid,Full-time,71002,108691,14-10-2023,Mid
+303,Healthcare,Data Analyst,Mid,Full-time,48576,127886,25-11-2023,Startup
+304,Retail,NLP Engineer,Senior,Contract,133128,151676,03-11-2024,Mid
+305,Retail,AI Product Manager,Mid,Remote,72195,154714,12-08-2025,Large
+306,E-commerce,AI Researcher,Entry,Internship,70554,81212,09-07-2025,Mid
+307,E-commerce,Data Scientist,Entry,Internship,72299,109340,17-02-2024,Large
+308,Tech,Computer Vision Engineer,Mid,Full-time,80922,120813,18-12-2023,Mid
+309,Education,Data Analyst,Senior,Internship,115164,135686,14-11-2023,Large
+310,Healthcare,Computer Vision Engineer,Entry,Remote,100207,146233,01-02-2024,Startup
+311,Tech,Computer Vision Engineer,Senior,Contract,121180,193454,06-12-2023,Startup
+312,Automotive,Data Scientist,Mid,Full-time,71373,133244,21-10-2024,Large
+313,E-commerce,Data Scientist,Mid,Internship,41433,118102,03-05-2024,Startup
+314,Healthcare,ML Engineer,Entry,Contract,134278,152472,30-11-2024,Large
+315,Finance,AI Researcher,Mid,Internship,52404,71046,11-06-2025,Startup
+316,Automotive,NLP Engineer,Entry,Internship,98266,145572,27-07-2024,Mid
+317,Finance,Data Analyst,Mid,Contract,134179,212706,12-03-2025,Mid
+318,Retail,ML Engineer,Mid,Internship,66368,81382,22-06-2024,Mid
+319,Retail,AI Product Manager,Mid,Full-time,115773,215403,15-09-2024,Startup
+320,E-commerce,NLP Engineer,Entry,Contract,130032,174733,19-02-2024,Startup
+321,Automotive,AI Researcher,Senior,Full-time,105292,172671,22-09-2024,Large
+322,Automotive,NLP Engineer,Senior,Full-time,98122,119896,18-12-2024,Large
+323,Retail,AI Product Manager,Senior,Full-time,122419,186888,01-10-2024,Mid
+324,Education,AI Researcher,Senior,Internship,73317,167850,01-01-2025,Startup
+325,Healthcare,Data Scientist,Mid,Remote,52740,129282,25-01-2025,Mid
+326,Finance,AI Product Manager,Mid,Contract,130522,169280,21-01-2024,Mid
+327,Tech,NLP Engineer,Entry,Internship,146948,163508,30-07-2024,Mid
+328,Tech,Quant Researcher,Senior,Internship,63681,156946,17-04-2025,Mid
+329,Tech,Quant Researcher,Mid,Full-time,102993,176878,06-08-2024,Mid
+330,Tech,ML Engineer,Senior,Full-time,146286,228405,02-04-2024,Large
+331,Retail,Data Scientist,Senior,Internship,55546,105329,15-04-2024,Startup
+332,E-commerce,Data Scientist,Senior,Remote,84124,96081,16-10-2024,Startup
+333,Tech,NLP Engineer,Entry,Full-time,105170,188370,19-11-2023,Mid
+334,Healthcare,Computer Vision Engineer,Mid,Full-time,55923,98036,07-10-2023,Mid
+335,E-commerce,AI Researcher,Senior,Full-time,120230,164622,05-02-2025,Mid
+336,Education,Data Analyst,Mid,Internship,126208,174920,22-06-2025,Large
+337,Education,Quant Researcher,Senior,Remote,123659,207607,28-09-2024,Startup
+338,Tech,Data Scientist,Mid,Contract,78431,154672,22-04-2025,Large
+339,E-commerce,Computer Vision Engineer,Mid,Contract,60552,139539,10-03-2025,Large
+340,Healthcare,Data Scientist,Senior,Internship,131559,209584,24-11-2024,Startup
+341,Tech,Computer Vision Engineer,Mid,Internship,122855,194503,19-12-2024,Large
+342,Healthcare,ML Engineer,Entry,Full-time,58087,119465,12-09-2024,Mid
+343,Tech,AI Product Manager,Entry,Remote,60085,116808,31-08-2024,Startup
+344,Education,Computer Vision Engineer,Entry,Internship,146409,165202,02-02-2025,Large
+345,E-commerce,Data Analyst,Senior,Internship,120234,139093,09-06-2024,Startup
+346,Education,AI Researcher,Senior,Contract,104105,197396,19-10-2024,Startup
+347,Finance,NLP Engineer,Entry,Full-time,148487,177884,18-11-2023,Large
+348,Automotive,Quant Researcher,Senior,Internship,80455,100773,30-11-2023,Large
+349,Automotive,NLP Engineer,Senior,Full-time,115657,181953,13-10-2024,Startup
+350,Tech,AI Product Manager,Senior,Contract,97381,144492,16-01-2024,Large
+351,Retail,AI Researcher,Entry,Internship,55751,133772,25-12-2023,Startup
+352,Retail,Computer Vision Engineer,Entry,Internship,90552,188412,23-07-2025,Mid
+353,Education,ML Engineer,Entry,Contract,69230,128642,02-01-2024,Large
+354,Automotive,Data Analyst,Entry,Contract,71489,149503,22-04-2025,Mid
+355,E-commerce,Quant Researcher,Senior,Remote,57739,75267,22-05-2025,Startup
+356,Education,Quant Researcher,Senior,Internship,149192,228942,12-09-2025,Large
+357,E-commerce,ML Engineer,Mid,Internship,91346,160302,09-06-2024,Large
+358,Tech,Data Analyst,Senior,Remote,56886,146884,10-05-2024,Mid
+359,Tech,Quant Researcher,Entry,Full-time,56258,108983,18-12-2024,Large
+360,Tech,AI Product Manager,Senior,Full-time,139096,176960,25-01-2024,Large
+361,Automotive,NLP Engineer,Entry,Remote,120316,133437,21-08-2025,Large
+362,Finance,AI Product Manager,Mid,Internship,48868,94542,31-01-2025,Large
+363,Finance,NLP Engineer,Entry,Full-time,108994,183026,13-08-2025,Mid
+364,Healthcare,AI Product Manager,Senior,Remote,118921,192736,02-12-2024,Large
+365,E-commerce,AI Product Manager,Entry,Internship,57113,75630,25-03-2024,Mid
+366,Tech,AI Product Manager,Mid,Full-time,70702,164914,12-05-2025,Startup
+367,E-commerce,Data Analyst,Entry,Full-time,114639,183492,09-06-2025,Startup
+368,Healthcare,AI Product Manager,Senior,Contract,110697,201149,04-06-2024,Mid
+369,Retail,Data Analyst,Senior,Remote,68664,136603,13-09-2024,Mid
+370,Education,NLP Engineer,Entry,Remote,64445,150617,08-09-2024,Large
+371,Education,Quant Researcher,Entry,Remote,74954,114010,12-10-2024,Mid
+372,Retail,AI Researcher,Senior,Internship,83014,110116,07-04-2025,Large
+373,Automotive,ML Engineer,Senior,Contract,146097,192440,22-08-2024,Startup
+374,Healthcare,Data Analyst,Entry,Full-time,50137,121449,20-03-2025,Mid
+375,Tech,NLP Engineer,Senior,Full-time,96091,176352,25-11-2024,Startup
+376,Finance,AI Product Manager,Senior,Contract,118753,156568,03-05-2025,Mid
+377,Tech,Quant Researcher,Entry,Contract,56022,87385,24-09-2023,Large
+378,Education,NLP Engineer,Senior,Full-time,65449,93935,22-08-2024,Mid
+379,E-commerce,Quant Researcher,Entry,Remote,53432,134809,09-02-2024,Startup
+380,Finance,Quant Researcher,Entry,Full-time,91250,117518,10-02-2025,Mid
+381,E-commerce,Data Scientist,Senior,Contract,56274,130011,24-10-2024,Large
+382,Retail,Computer Vision Engineer,Mid,Internship,100532,123437,28-07-2025,Large
+383,E-commerce,AI Product Manager,Senior,Remote,133743,144254,13-11-2023,Mid
+384,Tech,AI Product Manager,Entry,Remote,44510,92759,20-10-2023,Startup
+385,Automotive,NLP Engineer,Entry,Contract,88577,147284,16-05-2025,Mid
+386,Healthcare,NLP Engineer,Mid,Full-time,129724,218042,04-06-2024,Large
+387,Retail,Quant Researcher,Entry,Internship,41023,80713,15-03-2024,Mid
+388,Retail,ML Engineer,Entry,Internship,106371,127550,16-04-2025,Startup
+389,Retail,AI Researcher,Mid,Internship,56530,75014,04-01-2025,Mid
+390,Retail,NLP Engineer,Entry,Internship,119266,200044,14-03-2024,Startup
+391,Automotive,AI Product Manager,Senior,Remote,131807,227051,20-03-2025,Large
+392,Tech,ML Engineer,Senior,Internship,50349,109003,22-06-2024,Startup
+393,Healthcare,Quant Researcher,Senior,Contract,56567,116937,18-09-2024,Mid
+394,Retail,Data Analyst,Entry,Full-time,137094,205303,09-04-2025,Large
+395,Healthcare,ML Engineer,Senior,Internship,123710,203362,25-12-2024,Large
+396,Healthcare,Data Scientist,Mid,Contract,120259,184163,30-05-2024,Startup
+397,Finance,Quant Researcher,Entry,Remote,131912,166499,23-09-2024,Mid
+398,Retail,NLP Engineer,Entry,Internship,74468,85718,13-09-2025,Mid
+399,Finance,Data Analyst,Entry,Remote,43013,128940,13-09-2025,Startup
+400,Education,Data Scientist,Entry,Full-time,55605,70305,23-09-2024,Startup
+401,E-commerce,NLP Engineer,Entry,Full-time,99742,185700,25-10-2024,Mid
+402,Automotive,AI Product Manager,Mid,Internship,103675,173394,26-07-2024,Startup
+403,Education,Computer Vision Engineer,Mid,Remote,126438,181388,25-04-2024,Startup
+404,Healthcare,NLP Engineer,Mid,Remote,45855,71005,16-01-2025,Mid
+405,Tech,AI Researcher,Mid,Contract,77831,145508,24-06-2024,Large
+406,Finance,Quant Researcher,Mid,Internship,91591,110529,11-11-2024,Mid
+407,Finance,AI Researcher,Entry,Full-time,115140,139207,21-04-2024,Mid
+408,Healthcare,ML Engineer,Senior,Full-time,52749,82725,08-11-2024,Startup
+409,Retail,Quant Researcher,Mid,Remote,59860,82154,29-11-2024,Startup
+410,Healthcare,AI Researcher,Senior,Contract,134954,197152,19-08-2025,Startup
+411,Tech,Data Analyst,Senior,Contract,89200,180591,09-08-2025,Startup
+412,Automotive,AI Researcher,Entry,Full-time,54169,136576,28-06-2025,Startup
+413,Healthcare,Data Scientist,Entry,Remote,77375,151774,17-12-2024,Startup
+414,Healthcare,AI Product Manager,Mid,Internship,44125,73147,11-08-2025,Large
+415,Education,Data Analyst,Entry,Internship,68767,93624,05-02-2025,Mid
+416,Retail,ML Engineer,Mid,Contract,43289,102091,29-11-2024,Large
+417,Finance,AI Product Manager,Entry,Internship,99708,126007,19-05-2024,Mid
+418,Finance,ML Engineer,Entry,Contract,57692,81756,06-04-2025,Large
+419,Finance,AI Researcher,Mid,Full-time,54082,149736,17-09-2025,Mid
+420,E-commerce,Data Analyst,Mid,Contract,101456,135672,16-03-2024,Startup
+421,Education,AI Researcher,Mid,Contract,77948,107734,15-03-2025,Startup
+422,Retail,AI Researcher,Mid,Contract,143838,191740,19-02-2024,Mid
+423,Education,Quant Researcher,Entry,Contract,64090,112937,20-02-2024,Large
+424,Finance,ML Engineer,Entry,Internship,67555,113613,11-07-2025,Large
+425,Finance,Computer Vision Engineer,Senior,Full-time,73755,149397,14-12-2024,Startup
+426,Automotive,Data Analyst,Entry,Contract,147219,223596,11-11-2024,Large
+427,E-commerce,NLP Engineer,Entry,Internship,120574,164253,13-02-2025,Mid
+428,Education,Quant Researcher,Senior,Internship,76450,162635,30-11-2023,Startup
+429,Automotive,ML Engineer,Entry,Full-time,105179,161042,30-05-2025,Startup
+430,Automotive,Computer Vision Engineer,Mid,Full-time,100296,111823,07-03-2024,Startup
+431,E-commerce,AI Product Manager,Entry,Full-time,53381,103735,19-06-2025,Mid
+432,E-commerce,AI Researcher,Senior,Full-time,116301,214253,27-06-2024,Large
+433,Tech,AI Researcher,Entry,Contract,140443,182231,29-11-2023,Mid
+434,Retail,NLP Engineer,Entry,Contract,92799,159163,10-07-2024,Mid
+435,Tech,AI Product Manager,Entry,Contract,48181,75949,29-08-2024,Startup
+436,Retail,Quant Researcher,Entry,Full-time,72489,167549,21-03-2024,Mid
+437,E-commerce,Computer Vision Engineer,Senior,Internship,140658,230833,08-11-2023,Mid
+438,Finance,Data Scientist,Entry,Remote,130536,167334,06-07-2025,Large
+439,Finance,Quant Researcher,Senior,Full-time,81950,133686,30-03-2024,Startup
+440,Education,Quant Researcher,Senior,Contract,134169,173479,04-05-2024,Large
+441,Automotive,ML Engineer,Senior,Contract,40824,92636,16-03-2025,Large
+442,Tech,Quant Researcher,Mid,Internship,94799,136985,13-10-2024,Startup
+443,Automotive,Computer Vision Engineer,Mid,Internship,83771,94234,28-07-2025,Large
+444,E-commerce,ML Engineer,Entry,Contract,115058,174712,29-04-2025,Mid
+445,E-commerce,Computer Vision Engineer,Mid,Contract,119046,198687,07-02-2025,Mid
+446,Retail,Computer Vision Engineer,Senior,Remote,76496,169636,16-03-2024,Startup
+447,E-commerce,Computer Vision Engineer,Senior,Remote,114726,166530,02-01-2025,Large
+448,Education,NLP Engineer,Mid,Remote,87007,185082,22-10-2023,Startup
+449,Finance,Data Analyst,Mid,Remote,101003,168211,24-08-2024,Startup
+450,Automotive,ML Engineer,Entry,Full-time,123063,188735,13-08-2024,Mid
+451,Healthcare,ML Engineer,Senior,Contract,43723,55609,12-05-2024,Large
+452,Tech,Quant Researcher,Entry,Full-time,62280,142270,25-03-2025,Startup
+453,Retail,Quant Researcher,Senior,Remote,122800,196570,01-05-2025,Large
+454,Finance,AI Product Manager,Entry,Internship,109750,192019,08-03-2024,Large
+455,Healthcare,AI Product Manager,Mid,Internship,92256,151389,13-10-2023,Large
+456,Healthcare,ML Engineer,Mid,Full-time,62733,72920,30-12-2023,Large
+457,Healthcare,NLP Engineer,Senior,Internship,44536,65243,03-01-2024,Large
+458,Retail,ML Engineer,Senior,Full-time,117848,182284,31-03-2025,Startup
+459,E-commerce,Data Scientist,Entry,Internship,126486,160422,22-03-2024,Startup
+460,Finance,Quant Researcher,Mid,Remote,47182,68293,04-09-2024,Large
+461,Finance,Data Scientist,Senior,Full-time,61782,111016,15-02-2024,Startup
+462,Finance,Data Scientist,Mid,Full-time,80727,158409,29-01-2025,Startup
+463,Tech,AI Researcher,Entry,Full-time,114829,163954,19-05-2025,Mid
+464,Retail,Quant Researcher,Mid,Internship,144070,166802,09-01-2024,Large
+465,Education,AI Researcher,Senior,Contract,52942,108682,06-08-2025,Large
+466,Automotive,NLP Engineer,Mid,Internship,113035,170507,08-07-2024,Startup
+467,Automotive,Data Scientist,Mid,Internship,132860,175653,16-11-2024,Startup
+468,Tech,Data Scientist,Mid,Contract,117504,216279,26-12-2024,Mid
+469,E-commerce,Computer Vision Engineer,Mid,Remote,119974,214225,20-09-2024,Large
+470,Healthcare,NLP Engineer,Senior,Contract,89679,162956,09-07-2025,Mid
+471,Education,Computer Vision Engineer,Senior,Internship,92350,190209,29-09-2024,Mid
+472,Automotive,ML Engineer,Mid,Contract,100745,156193,19-05-2024,Large
+473,Tech,ML Engineer,Entry,Full-time,144980,238642,01-05-2024,Startup
+474,Automotive,Data Analyst,Mid,Contract,43750,143665,17-05-2025,Startup
+475,Healthcare,AI Researcher,Entry,Full-time,123991,140802,14-02-2024,Mid
+476,Automotive,AI Researcher,Entry,Internship,82447,99125,18-02-2024,Mid
+477,Healthcare,Computer Vision Engineer,Mid,Remote,40493,78657,11-04-2024,Startup
+478,Automotive,Data Analyst,Senior,Remote,123525,145590,19-08-2024,Mid
+479,Retail,Quant Researcher,Mid,Remote,48593,83543,12-10-2024,Large
+480,Education,AI Product Manager,Entry,Remote,84439,138226,13-03-2025,Startup
+481,Finance,AI Researcher,Mid,Internship,132748,206860,17-07-2024,Large
+482,Education,Quant Researcher,Senior,Contract,127247,153167,01-09-2025,Mid
+483,Automotive,Quant Researcher,Mid,Contract,72261,141735,21-08-2025,Mid
+484,Tech,Data Analyst,Mid,Internship,129504,207322,01-02-2024,Mid
+485,E-commerce,AI Product Manager,Mid,Remote,116697,174967,02-02-2024,Startup
+486,Retail,Computer Vision Engineer,Entry,Remote,46832,131794,18-07-2024,Startup
+487,Healthcare,Data Scientist,Mid,Internship,135983,151535,04-03-2025,Large
+488,Education,AI Product Manager,Senior,Full-time,86380,119826,27-11-2023,Startup
+489,Finance,AI Product Manager,Entry,Contract,97354,192951,17-10-2023,Startup
+490,E-commerce,Quant Researcher,Mid,Full-time,130041,148947,16-06-2024,Large
+491,Finance,Data Scientist,Mid,Internship,98664,190980,29-09-2023,Large
+492,Automotive,Data Analyst,Entry,Contract,112236,163663,09-11-2024,Large
+493,Education,Data Scientist,Entry,Remote,89452,161968,16-10-2023,Large
+494,Finance,AI Researcher,Mid,Remote,41836,115821,04-01-2024,Large
+495,Healthcare,Quant Researcher,Senior,Full-time,80778,94197,08-03-2025,Large
+496,Tech,AI Product Manager,Entry,Remote,68580,87181,21-07-2025,Mid
+497,Education,Data Scientist,Senior,Internship,41323,86336,10-08-2025,Mid
+498,Education,AI Product Manager,Senior,Full-time,127995,170331,24-04-2025,Startup
+499,Retail,Computer Vision Engineer,Mid,Remote,91343,143899,27-03-2025,Large
+500,E-commerce,Computer Vision Engineer,Mid,Remote,58872,121321,16-05-2024,Mid
+501,Automotive,AI Product Manager,Mid,Remote,59652,117331,30-10-2023,Large
+502,Healthcare,Computer Vision Engineer,Senior,Full-time,64588,93067,14-08-2024,Mid
+503,Automotive,Computer Vision Engineer,Senior,Internship,62963,73964,28-11-2024,Startup
+504,Tech,NLP Engineer,Mid,Contract,147083,198629,17-04-2025,Large
+505,Automotive,AI Researcher,Entry,Contract,124727,213590,02-07-2025,Large
+506,Retail,NLP Engineer,Senior,Contract,103756,181213,05-08-2025,Startup
+507,Finance,Data Scientist,Mid,Full-time,97542,184959,21-05-2024,Startup
+508,Automotive,ML Engineer,Entry,Contract,80381,97901,21-09-2024,Startup
+509,Education,Data Scientist,Senior,Remote,147604,186982,20-12-2024,Startup
+510,Healthcare,Data Analyst,Entry,Full-time,56981,90644,27-12-2024,Mid
+511,Retail,Data Analyst,Entry,Remote,116148,184483,13-08-2025,Startup
+512,Healthcare,AI Researcher,Mid,Contract,49163,80743,23-09-2023,Large
+513,Healthcare,AI Product Manager,Entry,Contract,51721,118914,04-01-2025,Large
+514,Education,Quant Researcher,Mid,Remote,143486,177073,27-06-2024,Large
+515,Automotive,Data Analyst,Entry,Remote,141494,226122,08-10-2024,Mid
+516,Tech,NLP Engineer,Entry,Contract,40667,138793,22-07-2025,Mid
+517,E-commerce,Computer Vision Engineer,Entry,Remote,45587,114965,08-05-2024,Startup
+518,Automotive,Data Analyst,Mid,Contract,50145,64920,03-05-2024,Mid
+519,E-commerce,Data Analyst,Senior,Contract,125963,141117,06-11-2024,Large
+520,E-commerce,AI Researcher,Mid,Remote,117682,149820,26-04-2025,Startup
+521,E-commerce,ML Engineer,Entry,Full-time,108359,163658,02-11-2024,Large
+522,Finance,AI Product Manager,Entry,Contract,46169,74675,18-07-2024,Mid
+523,Healthcare,Data Analyst,Mid,Remote,109531,131253,26-08-2024,Mid
+524,Retail,ML Engineer,Entry,Contract,146291,220807,27-02-2024,Mid
+525,Tech,AI Product Manager,Entry,Contract,60309,116090,31-08-2025,Mid
+526,Automotive,Data Scientist,Senior,Contract,135243,196909,12-03-2024,Startup
+527,E-commerce,ML Engineer,Senior,Internship,141909,166648,04-11-2024,Mid
+528,Education,ML Engineer,Entry,Remote,110795,199925,22-03-2025,Startup
+529,Retail,NLP Engineer,Mid,Remote,97755,118149,24-01-2024,Large
+530,Healthcare,Data Analyst,Senior,Remote,141037,189383,02-02-2024,Mid
+531,Healthcare,AI Product Manager,Mid,Remote,128537,188005,24-09-2024,Mid
+532,Healthcare,AI Product Manager,Senior,Full-time,56606,106301,05-02-2025,Mid
+533,Tech,ML Engineer,Mid,Contract,54795,115927,05-12-2023,Startup
+534,Finance,Data Analyst,Senior,Internship,68706,105919,06-06-2024,Mid
+535,Finance,NLP Engineer,Senior,Contract,107190,142210,13-09-2025,Large
+536,Healthcare,ML Engineer,Entry,Contract,65172,119584,22-01-2024,Mid
+537,Healthcare,AI Researcher,Mid,Full-time,58475,150927,18-06-2025,Large
+538,Finance,AI Product Manager,Entry,Contract,89065,169950,02-08-2024,Large
+539,Finance,NLP Engineer,Mid,Remote,140046,166454,08-08-2024,Mid
+540,Automotive,AI Researcher,Mid,Internship,50054,60639,30-06-2024,Large
+541,E-commerce,ML Engineer,Senior,Internship,84367,161104,05-04-2025,Startup
+542,E-commerce,ML Engineer,Senior,Internship,106747,192008,13-01-2025,Startup
+543,Education,NLP Engineer,Senior,Full-time,134658,192987,16-01-2024,Mid
+544,Automotive,Quant Researcher,Senior,Full-time,67982,80867,25-08-2024,Startup
+545,Tech,Data Analyst,Mid,Internship,66502,125569,25-06-2025,Mid
+546,E-commerce,ML Engineer,Mid,Full-time,129492,154474,28-10-2024,Startup
+547,E-commerce,Data Scientist,Mid,Contract,46778,126259,02-05-2025,Startup
+548,Education,Data Scientist,Entry,Internship,139140,205348,07-09-2025,Startup
+549,Education,AI Product Manager,Entry,Contract,81090,99269,25-10-2024,Startup
+550,Tech,NLP Engineer,Senior,Contract,134343,205844,17-01-2024,Startup
+551,Education,Computer Vision Engineer,Senior,Full-time,72912,155169,12-02-2024,Large
+552,Education,Data Scientist,Mid,Internship,123639,216071,08-06-2024,Mid
+553,Healthcare,NLP Engineer,Mid,Internship,71107,88278,18-08-2025,Mid
+554,Tech,ML Engineer,Entry,Full-time,139426,167189,09-02-2025,Startup
+555,Finance,Data Analyst,Entry,Full-time,41327,101270,18-08-2024,Mid
+556,Tech,AI Researcher,Mid,Full-time,132842,146986,03-01-2024,Mid
+557,Education,Data Scientist,Senior,Internship,61018,136143,19-12-2023,Mid
+558,E-commerce,Quant Researcher,Senior,Internship,129013,194851,21-08-2024,Mid
+559,Tech,ML Engineer,Senior,Full-time,53336,98757,16-10-2024,Startup
+560,E-commerce,NLP Engineer,Entry,Remote,60072,132524,31-05-2025,Startup
+561,Tech,AI Product Manager,Mid,Remote,95822,165764,21-05-2025,Startup
+562,Automotive,Data Scientist,Entry,Contract,123940,205534,21-10-2024,Mid
+563,Tech,Quant Researcher,Mid,Internship,93765,164272,16-02-2024,Mid
+564,Healthcare,AI Researcher,Senior,Remote,107143,125166,31-07-2024,Mid
+565,Healthcare,AI Researcher,Entry,Internship,78028,167608,02-09-2025,Large
+566,Tech,Computer Vision Engineer,Entry,Contract,65169,83971,11-04-2024,Large
+567,E-commerce,Data Analyst,Senior,Contract,70715,133242,29-01-2025,Startup
+568,Education,Data Analyst,Senior,Remote,119460,194399,17-04-2024,Mid
+569,Education,NLP Engineer,Mid,Contract,91699,163503,03-08-2024,Large
+570,Tech,ML Engineer,Senior,Full-time,67161,112365,01-06-2025,Startup
+571,Healthcare,NLP Engineer,Mid,Internship,106546,185690,12-10-2023,Large
+572,Tech,Quant Researcher,Mid,Full-time,137451,171220,29-11-2024,Mid
+573,Education,AI Product Manager,Senior,Contract,109614,173616,09-03-2025,Startup
+574,Education,Data Analyst,Mid,Contract,123263,202960,12-12-2023,Startup
+575,Retail,Data Analyst,Senior,Full-time,40293,110748,24-02-2025,Startup
+576,Education,Quant Researcher,Senior,Internship,127698,166887,16-10-2024,Startup
+577,E-commerce,NLP Engineer,Mid,Internship,136999,162930,23-05-2025,Mid
+578,Finance,AI Researcher,Mid,Remote,140731,235582,03-12-2023,Large
+579,Finance,ML Engineer,Entry,Full-time,108142,206901,20-10-2023,Large
+580,Automotive,Quant Researcher,Entry,Internship,92863,113996,11-01-2024,Large
+581,Education,Data Analyst,Senior,Full-time,49202,142011,17-11-2024,Large
+582,Education,ML Engineer,Entry,Contract,117905,154963,27-12-2023,Startup
+583,Automotive,AI Researcher,Mid,Full-time,69967,88953,26-03-2024,Large
+584,Tech,Data Analyst,Mid,Internship,117659,216166,26-05-2024,Mid
+585,Retail,Quant Researcher,Mid,Internship,59894,135142,12-12-2023,Startup
+586,Automotive,AI Researcher,Senior,Full-time,137561,211332,19-07-2025,Mid
+587,E-commerce,ML Engineer,Entry,Internship,116335,171155,13-02-2024,Startup
+588,Retail,NLP Engineer,Senior,Remote,96083,149737,16-05-2024,Mid
+589,E-commerce,NLP Engineer,Senior,Contract,143953,177085,28-02-2025,Large
+590,Education,Data Scientist,Entry,Full-time,75110,92187,13-05-2024,Startup
+591,Healthcare,Data Scientist,Mid,Contract,121197,140025,06-02-2025,Large
+592,Tech,NLP Engineer,Senior,Remote,54151,79891,03-03-2024,Mid
+593,Automotive,Quant Researcher,Senior,Contract,149692,200124,29-12-2024,Large
+594,Finance,Computer Vision Engineer,Mid,Remote,59190,136850,27-04-2025,Startup
+595,Finance,ML Engineer,Senior,Internship,109704,209632,26-12-2024,Large
+596,Education,NLP Engineer,Entry,Full-time,56774,69344,30-09-2024,Startup
+597,Finance,ML Engineer,Senior,Internship,48914,60214,13-10-2024,Mid
+598,Tech,Data Analyst,Mid,Internship,47206,107566,21-10-2024,Large
+599,Tech,AI Researcher,Mid,Internship,49463,142153,27-07-2025,Mid
+600,Tech,Computer Vision Engineer,Mid,Full-time,77762,138650,26-03-2024,Large
+601,E-commerce,AI Researcher,Entry,Full-time,67646,146965,17-06-2025,Mid
+602,Retail,AI Researcher,Senior,Full-time,66539,114691,05-08-2025,Mid
+603,Education,NLP Engineer,Mid,Contract,79160,172160,08-12-2024,Startup
+604,Automotive,AI Researcher,Mid,Full-time,147705,216954,07-03-2025,Startup
+605,E-commerce,AI Product Manager,Senior,Contract,59811,106563,06-11-2024,Mid
+606,Retail,ML Engineer,Senior,Remote,61213,148219,17-03-2025,Mid
+607,Education,NLP Engineer,Senior,Remote,127524,148571,01-05-2025,Startup
+608,Healthcare,Quant Researcher,Senior,Internship,53455,142848,22-06-2025,Startup
+609,Finance,ML Engineer,Mid,Full-time,84521,130961,30-04-2025,Mid
+610,Retail,Data Scientist,Entry,Full-time,68321,135101,15-04-2024,Large
+611,Tech,ML Engineer,Mid,Contract,73192,103993,20-06-2025,Startup
+612,Education,Data Analyst,Entry,Contract,43069,99172,26-01-2025,Startup
+613,Finance,Data Analyst,Senior,Internship,103638,163765,10-05-2024,Startup
+614,Tech,Computer Vision Engineer,Entry,Internship,148791,234027,26-05-2025,Large
+615,Finance,Computer Vision Engineer,Entry,Full-time,81873,126955,19-10-2024,Startup
+616,Retail,AI Product Manager,Mid,Remote,107701,182399,20-08-2025,Startup
+617,Retail,Computer Vision Engineer,Entry,Full-time,44261,132348,24-10-2024,Large
+618,Tech,Data Analyst,Mid,Contract,144418,178671,17-08-2024,Large
+619,E-commerce,AI Product Manager,Senior,Full-time,59575,125556,24-02-2024,Mid
+620,E-commerce,Data Scientist,Mid,Full-time,133037,191935,21-01-2025,Large
+621,Automotive,ML Engineer,Entry,Internship,125183,172905,09-09-2024,Large
+622,Finance,Quant Researcher,Mid,Contract,98205,195671,11-04-2024,Startup
+623,Education,ML Engineer,Senior,Contract,83577,159592,26-08-2024,Large
+624,Tech,NLP Engineer,Entry,Internship,126480,181097,06-04-2025,Mid
+625,Tech,Data Scientist,Senior,Remote,95492,152604,12-05-2024,Mid
+626,E-commerce,Data Analyst,Senior,Contract,102113,144608,30-09-2023,Large
+627,E-commerce,Data Analyst,Senior,Full-time,143450,184908,12-04-2024,Large
+628,Education,ML Engineer,Entry,Remote,72389,120591,09-07-2025,Mid
+629,Automotive,AI Product Manager,Mid,Full-time,45843,74772,24-09-2024,Mid
+630,Automotive,Data Analyst,Entry,Internship,132168,172436,18-07-2024,Startup
+631,Healthcare,Quant Researcher,Mid,Full-time,140975,223314,18-07-2024,Large
+632,Finance,Quant Researcher,Senior,Full-time,72912,124424,21-02-2024,Startup
+633,Education,Data Scientist,Mid,Full-time,92203,179621,24-05-2025,Mid
+634,Healthcare,ML Engineer,Mid,Contract,132423,178710,27-04-2025,Mid
+635,Healthcare,Quant Researcher,Mid,Internship,43526,142128,24-08-2024,Large
+636,Retail,Data Analyst,Mid,Full-time,100197,176071,08-12-2024,Startup
+637,Automotive,Data Analyst,Senior,Internship,104596,158369,13-06-2025,Startup
+638,Education,AI Product Manager,Mid,Full-time,128933,143658,29-02-2024,Startup
+639,Automotive,NLP Engineer,Senior,Full-time,111144,184492,07-05-2024,Mid
+640,Healthcare,NLP Engineer,Entry,Full-time,147850,183922,11-02-2025,Large
+641,Automotive,AI Researcher,Mid,Contract,140539,204807,31-12-2024,Mid
+642,Finance,ML Engineer,Senior,Contract,60724,86033,12-02-2024,Startup
+643,E-commerce,NLP Engineer,Entry,Contract,71064,107425,21-03-2025,Mid
+644,Education,AI Researcher,Entry,Contract,41074,139585,03-06-2024,Startup
+645,Tech,ML Engineer,Entry,Internship,88875,140496,05-04-2024,Mid
+646,Tech,AI Researcher,Mid,Internship,42720,114323,19-10-2023,Large
+647,Education,ML Engineer,Entry,Full-time,48928,97457,10-10-2024,Large
+648,E-commerce,Quant Researcher,Entry,Contract,62352,118360,19-10-2023,Startup
+649,Retail,Data Scientist,Entry,Full-time,71987,127174,28-11-2023,Mid
+650,Tech,Quant Researcher,Senior,Internship,96588,159646,29-04-2024,Startup
+651,E-commerce,NLP Engineer,Entry,Remote,112609,189278,16-12-2023,Mid
+652,Automotive,AI Product Manager,Senior,Full-time,63732,99367,15-07-2025,Mid
+653,Healthcare,AI Product Manager,Entry,Remote,139447,224946,07-12-2024,Mid
+654,Education,ML Engineer,Mid,Contract,130455,143201,25-02-2024,Large
+655,Healthcare,Computer Vision Engineer,Mid,Remote,69015,94367,17-07-2024,Mid
+656,Tech,Quant Researcher,Mid,Full-time,70351,86518,11-06-2025,Large
+657,Education,NLP Engineer,Mid,Internship,49069,65157,01-06-2025,Mid
+658,Education,NLP Engineer,Mid,Internship,74463,103688,16-11-2024,Startup
+659,Healthcare,Quant Researcher,Entry,Internship,137479,173706,28-06-2025,Large
+660,Finance,AI Product Manager,Entry,Internship,51735,71615,13-06-2025,Large
+661,Education,ML Engineer,Mid,Internship,105183,136608,24-01-2025,Startup
+662,Finance,ML Engineer,Entry,Internship,80869,128578,21-12-2024,Startup
+663,Healthcare,Computer Vision Engineer,Senior,Internship,94999,167994,15-01-2025,Large
+664,Automotive,AI Researcher,Senior,Internship,98295,166881,28-03-2025,Startup
+665,Automotive,AI Researcher,Entry,Full-time,84355,154595,09-11-2023,Startup
+666,Healthcare,NLP Engineer,Entry,Internship,108703,131026,03-05-2025,Mid
+667,Retail,Data Scientist,Entry,Internship,45561,84324,31-01-2025,Large
+668,Finance,NLP Engineer,Senior,Remote,50662,146281,13-11-2024,Large
+669,Education,Data Analyst,Senior,Internship,75939,118168,10-02-2025,Large
+670,Automotive,ML Engineer,Entry,Full-time,75976,154691,10-08-2024,Mid
+671,Automotive,Data Scientist,Entry,Remote,58623,100250,15-10-2023,Startup
+672,E-commerce,Computer Vision Engineer,Senior,Internship,95737,120978,27-07-2025,Large
+673,E-commerce,Quant Researcher,Senior,Remote,86038,117214,12-01-2025,Startup
+674,Tech,NLP Engineer,Entry,Internship,52929,148174,30-12-2024,Startup
+675,Retail,Computer Vision Engineer,Senior,Contract,94926,180475,12-08-2025,Mid
+676,Education,NLP Engineer,Mid,Internship,80350,124373,26-01-2024,Large
+677,Retail,ML Engineer,Mid,Internship,141317,189797,31-07-2025,Large
+678,Tech,Data Scientist,Mid,Internship,144921,242601,25-01-2024,Large
+679,Automotive,AI Researcher,Entry,Contract,78021,138369,30-06-2024,Large
+680,Education,AI Product Manager,Senior,Contract,69902,164688,15-03-2025,Large
+681,Retail,Computer Vision Engineer,Entry,Remote,149757,220531,08-02-2025,Startup
+682,Healthcare,AI Researcher,Entry,Remote,115186,147382,09-05-2025,Mid
+683,Healthcare,AI Product Manager,Mid,Full-time,48248,92417,18-10-2023,Large
+684,Healthcare,Computer Vision Engineer,Mid,Full-time,111819,139639,09-02-2024,Large
+685,Retail,Quant Researcher,Mid,Full-time,129844,163112,13-10-2024,Startup
+686,Automotive,AI Researcher,Entry,Full-time,121208,201513,10-09-2024,Mid
+687,Healthcare,Quant Researcher,Senior,Full-time,107216,196778,12-01-2025,Startup
+688,Retail,AI Researcher,Mid,Internship,41764,136739,11-07-2025,Startup
+689,Tech,Data Analyst,Senior,Contract,147895,196134,15-01-2024,Large
+690,Retail,NLP Engineer,Senior,Full-time,47192,145078,29-06-2025,Large
+691,Automotive,AI Product Manager,Mid,Internship,48979,87015,28-07-2024,Large
+692,Automotive,Computer Vision Engineer,Mid,Full-time,70473,136805,16-03-2025,Startup
+693,Retail,Computer Vision Engineer,Entry,Full-time,101941,151649,02-09-2024,Mid
+694,Tech,Computer Vision Engineer,Mid,Contract,79422,131027,24-03-2025,Large
+695,Automotive,NLP Engineer,Senior,Full-time,104607,198261,19-01-2024,Large
+696,Education,Data Analyst,Entry,Full-time,142297,230635,25-11-2023,Large
+697,Healthcare,Data Analyst,Mid,Full-time,129959,183290,11-11-2024,Mid
+698,Automotive,NLP Engineer,Senior,Remote,78350,92888,19-02-2025,Startup
+699,Education,AI Product Manager,Mid,Full-time,76271,164679,11-06-2024,Startup
+700,Tech,Quant Researcher,Senior,Internship,55587,97947,18-04-2024,Startup
+701,Healthcare,Quant Researcher,Senior,Internship,127145,147633,07-01-2024,Mid
+702,Tech,Data Analyst,Mid,Remote,143724,226912,21-07-2024,Mid
+703,E-commerce,NLP Engineer,Entry,Contract,89162,143952,26-12-2024,Mid
+704,Education,Quant Researcher,Mid,Internship,91063,117193,25-04-2024,Mid
+705,Automotive,Quant Researcher,Mid,Remote,141577,165447,16-12-2024,Startup
+706,Healthcare,Quant Researcher,Entry,Contract,54193,88474,06-10-2023,Large
+707,Tech,ML Engineer,Senior,Contract,112652,183753,13-04-2025,Startup
+708,Tech,Quant Researcher,Senior,Full-time,92645,120926,09-02-2025,Startup
+709,E-commerce,Data Analyst,Mid,Full-time,64523,119477,14-01-2025,Large
+710,Education,Computer Vision Engineer,Senior,Full-time,118063,139054,02-11-2024,Startup
+711,Automotive,Computer Vision Engineer,Senior,Full-time,136125,171741,27-08-2024,Mid
+712,Retail,NLP Engineer,Senior,Remote,89832,168332,21-12-2023,Mid
+713,Automotive,Quant Researcher,Entry,Internship,58051,72433,10-04-2024,Startup
+714,Education,AI Researcher,Entry,Remote,118098,180405,13-03-2024,Startup
+715,E-commerce,NLP Engineer,Mid,Full-time,130644,162308,01-05-2025,Startup
+716,Finance,NLP Engineer,Entry,Internship,44826,136391,08-10-2024,Large
+717,Retail,Data Scientist,Senior,Internship,143864,189293,30-10-2023,Large
+718,Retail,AI Researcher,Mid,Internship,119984,170149,15-09-2024,Large
+719,E-commerce,Data Analyst,Senior,Full-time,84432,151643,30-07-2024,Startup
+720,Tech,NLP Engineer,Entry,Full-time,78737,137073,05-05-2025,Startup
+721,Automotive,Data Analyst,Entry,Internship,125708,211610,26-09-2024,Mid
+722,Healthcare,ML Engineer,Mid,Remote,66588,150410,17-02-2024,Large
+723,Education,Data Analyst,Senior,Contract,54873,128753,04-12-2023,Large
+724,Automotive,Computer Vision Engineer,Senior,Internship,148303,168698,21-06-2025,Mid
+725,Tech,AI Researcher,Mid,Full-time,41869,122449,24-01-2024,Mid
+726,Retail,Data Analyst,Entry,Full-time,108841,170869,11-11-2024,Large
+727,Healthcare,ML Engineer,Mid,Remote,114726,168511,08-09-2024,Large
+728,Healthcare,Quant Researcher,Senior,Internship,80878,167444,20-01-2025,Mid
+729,Automotive,NLP Engineer,Mid,Remote,58935,111154,11-09-2025,Mid
+730,E-commerce,ML Engineer,Entry,Full-time,122431,210032,31-03-2024,Startup
+731,Education,Quant Researcher,Mid,Full-time,102648,115973,23-06-2025,Mid
+732,Retail,AI Product Manager,Senior,Full-time,61585,79010,22-05-2025,Large
+733,Education,AI Product Manager,Entry,Remote,53822,122124,05-01-2024,Mid
+734,E-commerce,ML Engineer,Senior,Remote,107790,178747,22-11-2023,Startup
+735,Healthcare,Data Scientist,Entry,Full-time,138168,154475,16-12-2024,Mid
+736,Finance,Computer Vision Engineer,Entry,Remote,129072,155706,25-03-2024,Startup
+737,Finance,Computer Vision Engineer,Mid,Contract,117435,157783,23-06-2024,Startup
+738,Education,Data Scientist,Mid,Full-time,104274,137730,13-05-2024,Large
+739,Retail,ML Engineer,Senior,Contract,72786,95785,29-03-2025,Startup
+740,E-commerce,AI Product Manager,Mid,Remote,108949,171824,14-04-2024,Large
+741,Finance,AI Researcher,Senior,Contract,89875,110549,14-04-2024,Startup
+742,Finance,ML Engineer,Senior,Internship,146648,220198,28-03-2024,Large
+743,Automotive,Computer Vision Engineer,Senior,Contract,55334,92646,17-03-2024,Startup
+744,Healthcare,AI Researcher,Entry,Remote,121991,217004,01-09-2024,Startup
+745,Healthcare,AI Product Manager,Entry,Internship,137005,199493,20-05-2025,Startup
+746,Retail,ML Engineer,Mid,Remote,137915,213509,13-12-2024,Mid
+747,Education,Data Scientist,Mid,Remote,93505,184085,04-08-2025,Startup
+748,Finance,NLP Engineer,Senior,Remote,146642,193936,05-11-2024,Mid
+749,Retail,AI Researcher,Senior,Contract,53382,107955,21-02-2025,Mid
+750,Education,AI Product Manager,Mid,Full-time,111712,179464,22-11-2024,Startup
+751,Retail,NLP Engineer,Mid,Full-time,45412,84249,09-07-2024,Mid
+752,Retail,Computer Vision Engineer,Entry,Full-time,96319,193004,31-08-2024,Mid
+753,Tech,Computer Vision Engineer,Entry,Contract,132679,198491,25-05-2025,Mid
+754,Tech,ML Engineer,Mid,Contract,108752,184389,30-04-2025,Large
+755,Retail,ML Engineer,Senior,Internship,146465,217937,28-10-2024,Large
+756,E-commerce,Computer Vision Engineer,Entry,Contract,148789,213319,11-08-2024,Startup
+757,Education,ML Engineer,Entry,Internship,115045,199831,31-08-2024,Startup
+758,Automotive,Data Analyst,Senior,Internship,135301,224073,25-12-2023,Large
+759,Education,NLP Engineer,Entry,Full-time,77322,156137,29-03-2025,Mid
+760,Healthcare,ML Engineer,Senior,Contract,87528,177503,16-07-2024,Large
+761,E-commerce,Computer Vision Engineer,Mid,Full-time,100842,113216,08-08-2024,Startup
+762,Tech,AI Product Manager,Mid,Full-time,95461,161157,04-11-2024,Mid
+763,E-commerce,Data Scientist,Entry,Remote,40926,133520,30-09-2023,Large
+764,Automotive,AI Researcher,Mid,Remote,145229,207174,01-04-2024,Mid
+765,Tech,NLP Engineer,Mid,Internship,56261,138738,04-02-2024,Mid
+766,Finance,AI Product Manager,Entry,Contract,123318,209284,22-09-2024,Large
+767,Finance,ML Engineer,Entry,Contract,48577,77587,22-11-2024,Startup
+768,E-commerce,Data Analyst,Senior,Full-time,45866,83992,25-07-2025,Large
+769,Automotive,Quant Researcher,Senior,Remote,82486,107941,27-09-2023,Mid
+770,Tech,Data Analyst,Senior,Contract,97109,162991,24-02-2024,Large
+771,Finance,Data Analyst,Senior,Full-time,68376,111383,09-12-2023,Mid
+772,Automotive,AI Researcher,Senior,Full-time,112752,194703,09-06-2025,Mid
+773,Automotive,Quant Researcher,Entry,Contract,126011,222919,12-10-2024,Startup
+774,Tech,AI Product Manager,Mid,Contract,143118,197899,09-08-2025,Startup
+775,Finance,ML Engineer,Entry,Full-time,80005,164440,30-08-2024,Mid
+776,Tech,ML Engineer,Senior,Contract,65236,112321,18-11-2024,Startup
+777,Retail,Quant Researcher,Senior,Full-time,106312,133726,03-06-2025,Startup
+778,Healthcare,Quant Researcher,Mid,Full-time,70970,130168,26-09-2023,Startup
+779,Tech,AI Researcher,Mid,Contract,79563,160638,21-01-2024,Startup
+780,E-commerce,Data Analyst,Entry,Internship,142504,235377,26-05-2025,Mid
+781,Retail,Computer Vision Engineer,Mid,Contract,134914,192870,04-02-2025,Large
+782,Automotive,NLP Engineer,Senior,Full-time,110442,136014,23-06-2025,Startup
+783,Tech,Data Scientist,Mid,Full-time,108092,149127,11-08-2024,Large
+784,Automotive,Data Analyst,Entry,Internship,130779,223455,14-11-2023,Startup
+785,Automotive,AI Researcher,Mid,Full-time,91255,112451,17-10-2023,Large
+786,Retail,Data Scientist,Entry,Internship,90879,135247,25-09-2023,Large
+787,Finance,Quant Researcher,Mid,Internship,115822,145532,16-09-2024,Mid
+788,Retail,AI Researcher,Mid,Contract,83481,125210,23-10-2024,Mid
+789,Education,ML Engineer,Senior,Full-time,99587,178090,06-09-2024,Startup
+790,E-commerce,AI Product Manager,Mid,Internship,58111,109668,20-11-2023,Mid
+791,Tech,ML Engineer,Senior,Contract,43453,96389,01-04-2025,Large
+792,E-commerce,Computer Vision Engineer,Entry,Remote,118748,154255,14-08-2024,Large
+793,Retail,AI Product Manager,Entry,Internship,78422,107540,11-09-2025,Large
+794,Education,AI Researcher,Entry,Internship,112925,176100,19-10-2024,Startup
+795,Retail,Data Analyst,Entry,Internship,117216,164983,02-11-2023,Startup
+796,Retail,Data Scientist,Mid,Contract,108484,157131,28-10-2024,Startup
+797,Tech,Quant Researcher,Senior,Internship,77543,158349,08-04-2024,Mid
+798,Finance,AI Researcher,Entry,Remote,41105,131816,27-11-2024,Mid
+799,Retail,ML Engineer,Entry,Remote,119337,197693,11-05-2025,Large
+800,Automotive,Quant Researcher,Mid,Contract,110827,196005,11-03-2025,Large
+801,Education,NLP Engineer,Mid,Contract,68942,151892,15-03-2025,Startup
+802,Automotive,Data Analyst,Mid,Remote,132080,194071,06-01-2024,Large
+803,Retail,Data Scientist,Entry,Full-time,78884,141741,14-06-2025,Large
+804,Automotive,Computer Vision Engineer,Entry,Internship,109567,153916,16-11-2023,Large
+805,Healthcare,AI Researcher,Entry,Internship,48357,117638,04-03-2025,Mid
+806,Tech,Computer Vision Engineer,Mid,Contract,99903,116196,08-11-2023,Large
+807,Automotive,Computer Vision Engineer,Mid,Full-time,84022,154182,23-04-2025,Large
+808,Healthcare,NLP Engineer,Entry,Remote,90182,127387,19-04-2024,Mid
+809,Retail,ML Engineer,Senior,Full-time,63292,75056,07-02-2025,Startup
+810,Automotive,AI Product Manager,Entry,Full-time,55596,70304,02-06-2025,Mid
+811,E-commerce,ML Engineer,Entry,Remote,98886,175351,07-11-2024,Mid
+812,Tech,Quant Researcher,Senior,Full-time,95671,135465,23-10-2023,Startup
+813,E-commerce,AI Product Manager,Senior,Internship,54859,114121,08-09-2024,Startup
+814,Tech,Computer Vision Engineer,Entry,Internship,84637,101116,30-05-2024,Startup
+815,Automotive,Quant Researcher,Senior,Remote,68935,104191,03-02-2024,Large
+816,Healthcare,Computer Vision Engineer,Mid,Internship,65508,132502,20-01-2024,Large
+817,Retail,AI Product Manager,Mid,Internship,56129,112048,18-03-2024,Mid
+818,Finance,ML Engineer,Mid,Contract,85447,134543,13-10-2024,Large
+819,Retail,AI Researcher,Mid,Contract,130152,188601,23-04-2024,Mid
+820,Retail,Data Analyst,Entry,Remote,141832,204974,09-04-2025,Startup
+821,E-commerce,Data Analyst,Entry,Full-time,146129,175662,11-01-2025,Large
+822,Retail,ML Engineer,Senior,Full-time,96885,106999,17-11-2023,Large
+823,Finance,Quant Researcher,Entry,Remote,104902,195443,04-05-2025,Large
+824,Healthcare,AI Researcher,Entry,Contract,90748,177223,02-08-2024,Large
+825,Retail,AI Researcher,Mid,Full-time,88375,109142,10-04-2024,Mid
+826,Healthcare,AI Product Manager,Mid,Contract,70090,136849,20-11-2023,Startup
+827,E-commerce,AI Product Manager,Entry,Contract,95361,189634,14-04-2024,Startup
+828,Finance,NLP Engineer,Mid,Remote,41043,121192,12-06-2024,Startup
+829,Automotive,AI Researcher,Senior,Internship,51739,81068,25-01-2025,Mid
+830,Education,Computer Vision Engineer,Mid,Remote,136245,158942,28-09-2023,Mid
+831,Education,Data Scientist,Mid,Remote,94816,180325,06-12-2024,Large
+832,Retail,AI Product Manager,Entry,Internship,139236,202150,05-10-2023,Startup
+833,Retail,AI Researcher,Mid,Remote,67231,93957,11-10-2024,Mid
+834,E-commerce,ML Engineer,Entry,Contract,137964,170457,09-08-2024,Mid
+835,Education,Data Scientist,Mid,Internship,95174,127901,15-09-2024,Large
+836,Education,ML Engineer,Senior,Full-time,139025,163828,03-08-2025,Large
+837,Finance,AI Researcher,Senior,Remote,80064,166540,07-02-2025,Startup
+838,Retail,AI Product Manager,Mid,Remote,123917,215224,09-02-2025,Mid
+839,Tech,Data Scientist,Entry,Internship,112129,134693,30-04-2025,Startup
+840,E-commerce,Quant Researcher,Entry,Internship,93495,121455,31-08-2025,Mid
+841,Retail,Data Scientist,Mid,Remote,93984,115685,12-08-2024,Large
+842,Automotive,Data Scientist,Entry,Internship,141497,186741,01-12-2024,Large
+843,Finance,NLP Engineer,Senior,Internship,108227,170108,08-08-2025,Startup
+844,Tech,Data Scientist,Senior,Contract,46507,95380,18-03-2024,Startup
+845,Tech,ML Engineer,Senior,Remote,144378,182820,23-08-2024,Large
+846,E-commerce,AI Researcher,Senior,Contract,116988,142045,27-07-2025,Mid
+847,Healthcare,Quant Researcher,Entry,Full-time,49343,95151,18-07-2024,Large
+848,Retail,AI Product Manager,Entry,Remote,102358,113016,17-12-2024,Mid
+849,Retail,Computer Vision Engineer,Mid,Contract,124228,223625,25-02-2025,Startup
+850,Finance,AI Researcher,Senior,Full-time,128700,140403,01-09-2025,Mid
+851,Retail,Data Analyst,Entry,Internship,53005,135645,04-04-2025,Startup
+852,Healthcare,AI Researcher,Senior,Contract,112949,150069,21-03-2025,Mid
+853,Healthcare,NLP Engineer,Mid,Internship,53274,85457,08-05-2025,Large
+854,Finance,NLP Engineer,Mid,Contract,61527,118727,21-04-2025,Startup
+855,Tech,Data Scientist,Senior,Full-time,80834,133992,06-04-2024,Mid
+856,Retail,Data Scientist,Entry,Full-time,143635,176509,21-05-2024,Mid
+857,Education,AI Product Manager,Entry,Full-time,67463,117748,09-11-2023,Startup
+858,Education,ML Engineer,Entry,Internship,139626,171708,18-11-2024,Mid
+859,Healthcare,Data Analyst,Entry,Contract,119828,147857,11-01-2025,Large
+860,Retail,ML Engineer,Entry,Contract,76830,109934,21-08-2024,Large
+861,Automotive,Computer Vision Engineer,Entry,Internship,94999,172683,22-10-2023,Startup
+862,Retail,NLP Engineer,Entry,Full-time,86971,144409,03-12-2024,Large
+863,Automotive,Data Analyst,Senior,Remote,104785,143093,16-08-2024,Startup
+864,Finance,Data Scientist,Senior,Remote,42308,86646,09-05-2024,Mid
+865,Retail,Computer Vision Engineer,Mid,Internship,91659,186622,30-12-2023,Large
+866,Finance,AI Product Manager,Senior,Contract,100619,133109,22-03-2025,Startup
+867,E-commerce,ML Engineer,Entry,Remote,99808,170989,11-03-2025,Large
+868,Automotive,NLP Engineer,Entry,Remote,90343,162855,19-03-2024,Mid
+869,Finance,NLP Engineer,Senior,Contract,75703,128358,12-03-2025,Mid
+870,Education,Computer Vision Engineer,Entry,Internship,83952,144284,05-08-2025,Mid
+871,Automotive,AI Researcher,Mid,Remote,69325,131806,01-01-2024,Large
+872,Finance,NLP Engineer,Entry,Full-time,144735,236116,05-01-2024,Large
+873,Finance,Data Analyst,Entry,Full-time,101118,138023,19-12-2024,Startup
+874,Education,Data Analyst,Mid,Internship,147137,193127,20-05-2025,Large
+875,E-commerce,ML Engineer,Senior,Contract,52210,134651,04-09-2025,Startup
+876,Healthcare,ML Engineer,Senior,Internship,65715,150039,06-09-2025,Startup
+877,E-commerce,Quant Researcher,Mid,Full-time,133828,174215,23-06-2024,Mid
+878,Automotive,Quant Researcher,Entry,Remote,70866,151464,06-04-2025,Large
+879,Tech,Data Scientist,Entry,Contract,128320,204308,10-08-2025,Mid
+880,E-commerce,AI Product Manager,Mid,Full-time,58910,129962,29-06-2024,Large
+881,Finance,NLP Engineer,Senior,Internship,127058,168678,19-02-2024,Startup
+882,E-commerce,Data Scientist,Mid,Contract,49767,101227,20-03-2025,Startup
+883,Finance,Quant Researcher,Senior,Contract,146173,230184,25-05-2024,Large
+884,Tech,ML Engineer,Entry,Remote,88607,183164,21-02-2025,Large
+885,Retail,ML Engineer,Senior,Contract,147037,178287,14-02-2025,Startup
+886,Tech,Quant Researcher,Senior,Full-time,71180,170074,10-02-2024,Mid
+887,Automotive,AI Researcher,Entry,Contract,130422,190384,02-02-2024,Large
+888,Retail,AI Researcher,Mid,Internship,50046,107439,08-06-2025,Startup
+889,Finance,Computer Vision Engineer,Entry,Full-time,77419,146607,20-06-2025,Mid
+890,Healthcare,NLP Engineer,Entry,Full-time,111527,151917,12-10-2023,Mid
+891,Automotive,Data Scientist,Mid,Internship,70421,88423,22-04-2025,Startup
+892,E-commerce,ML Engineer,Entry,Remote,55816,118975,12-06-2025,Large
+893,Retail,NLP Engineer,Entry,Remote,105588,129620,05-01-2025,Startup
+894,E-commerce,Quant Researcher,Entry,Internship,46417,141320,13-01-2025,Startup
+895,Automotive,Computer Vision Engineer,Mid,Remote,63705,108066,21-04-2025,Startup
+896,Tech,AI Researcher,Senior,Contract,144068,203628,08-04-2025,Mid
+897,Tech,Quant Researcher,Senior,Internship,112549,169557,04-03-2024,Mid
+898,Healthcare,Quant Researcher,Senior,Internship,129815,228735,12-04-2024,Mid
+899,Finance,Quant Researcher,Entry,Remote,119581,200017,14-08-2025,Startup
+900,Retail,NLP Engineer,Entry,Full-time,140552,177621,03-07-2025,Large
+901,Automotive,Data Scientist,Mid,Contract,115594,164198,28-07-2024,Startup
+902,E-commerce,AI Product Manager,Entry,Contract,79445,122162,24-07-2024,Startup
+903,Retail,ML Engineer,Entry,Contract,112049,152307,02-02-2025,Large
+904,Tech,ML Engineer,Senior,Remote,142574,189997,14-06-2024,Mid
+905,Retail,Data Analyst,Entry,Remote,104565,186039,08-08-2025,Large
+906,Healthcare,Quant Researcher,Mid,Internship,90596,113378,11-12-2023,Large
+907,E-commerce,NLP Engineer,Entry,Contract,84913,135327,20-10-2024,Startup
+908,Retail,AI Product Manager,Senior,Internship,99425,166183,28-11-2024,Large
+909,E-commerce,Computer Vision Engineer,Senior,Internship,128680,166841,21-10-2023,Large
+910,Finance,NLP Engineer,Mid,Internship,96520,170352,03-10-2023,Startup
+911,E-commerce,Data Scientist,Senior,Contract,120985,185014,10-11-2023,Startup
+912,Tech,ML Engineer,Senior,Internship,46096,121946,29-08-2024,Large
+913,Education,AI Product Manager,Senior,Contract,49743,85665,01-09-2025,Mid
+914,Retail,ML Engineer,Entry,Remote,60561,83066,10-07-2025,Mid
+915,Automotive,ML Engineer,Mid,Contract,123480,196377,22-10-2023,Mid
+916,E-commerce,AI Researcher,Entry,Remote,49134,62088,27-02-2024,Large
+917,Finance,AI Researcher,Entry,Full-time,146383,199913,10-12-2023,Startup
+918,Education,Quant Researcher,Entry,Internship,44419,65350,12-12-2023,Startup
+919,Automotive,AI Product Manager,Senior,Internship,48848,60982,05-05-2024,Startup
+920,Healthcare,Computer Vision Engineer,Mid,Full-time,93385,188098,05-07-2025,Startup
+921,Finance,AI Product Manager,Entry,Full-time,139966,204232,22-10-2024,Startup
+922,E-commerce,Data Scientist,Senior,Contract,97543,186865,20-05-2025,Large
+923,Retail,ML Engineer,Entry,Full-time,74682,90118,04-04-2025,Startup
+924,Retail,AI Product Manager,Entry,Internship,48904,148883,20-04-2024,Large
+925,Education,NLP Engineer,Senior,Full-time,77036,123121,28-01-2024,Mid
+926,E-commerce,Computer Vision Engineer,Entry,Contract,99727,180257,23-12-2023,Large
+927,Retail,Computer Vision Engineer,Senior,Full-time,100434,145432,06-01-2024,Mid
+928,Finance,Data Analyst,Senior,Full-time,113410,124488,05-06-2024,Mid
+929,E-commerce,Data Analyst,Entry,Remote,145218,225247,08-05-2024,Mid
+930,Retail,ML Engineer,Mid,Internship,99985,118835,03-10-2023,Large
+931,Finance,Data Scientist,Entry,Full-time,56177,123724,02-06-2025,Startup
+932,Tech,AI Product Manager,Entry,Full-time,133484,224807,26-09-2024,Large
+933,E-commerce,Data Analyst,Senior,Remote,144347,187223,01-09-2024,Mid
+934,Finance,NLP Engineer,Mid,Internship,83798,121933,18-07-2024,Large
+935,Automotive,Computer Vision Engineer,Senior,Internship,143575,159996,14-03-2025,Large
+936,Retail,Quant Researcher,Senior,Remote,95811,171383,31-01-2025,Startup
+937,E-commerce,Computer Vision Engineer,Entry,Contract,103575,118168,24-01-2024,Large
+938,Finance,NLP Engineer,Mid,Full-time,40745,127343,15-06-2025,Startup
+939,Healthcare,Quant Researcher,Mid,Remote,66473,78077,11-10-2023,Large
+940,Tech,NLP Engineer,Senior,Internship,114324,162850,04-05-2025,Large
+941,Retail,AI Product Manager,Senior,Contract,81604,133314,02-11-2024,Large
+942,Healthcare,Quant Researcher,Senior,Internship,89096,179857,09-09-2024,Mid
+943,E-commerce,Computer Vision Engineer,Mid,Remote,56260,87654,06-11-2023,Large
+944,E-commerce,AI Researcher,Entry,Internship,49558,70064,08-02-2025,Mid
+945,Education,AI Product Manager,Mid,Full-time,81542,177339,03-11-2024,Large
+946,Tech,AI Product Manager,Entry,Full-time,102091,163622,25-07-2025,Startup
+947,E-commerce,NLP Engineer,Senior,Remote,121879,190776,28-12-2023,Startup
+948,E-commerce,Quant Researcher,Senior,Internship,100499,194235,22-04-2025,Mid
+949,Automotive,Data Scientist,Mid,Remote,93170,133713,03-10-2023,Startup
+950,Education,Quant Researcher,Senior,Remote,93116,182505,17-08-2025,Startup
+951,Healthcare,Data Analyst,Senior,Contract,134605,155059,04-01-2024,Mid
+952,Finance,Computer Vision Engineer,Entry,Contract,135040,211350,05-08-2024,Startup
+953,Healthcare,Computer Vision Engineer,Entry,Internship,70699,105545,29-03-2025,Startup
+954,Retail,Computer Vision Engineer,Entry,Internship,49914,109366,14-06-2025,Large
+955,Healthcare,AI Researcher,Mid,Contract,104664,167187,10-08-2024,Startup
+956,E-commerce,Data Analyst,Mid,Full-time,82848,132371,01-12-2024,Mid
+957,Retail,Data Scientist,Mid,Internship,49582,66937,10-09-2025,Large
+958,Automotive,Data Scientist,Senior,Internship,90272,169247,02-01-2024,Startup
+959,Tech,Data Analyst,Entry,Remote,124573,216693,24-01-2024,Mid
+960,Finance,Quant Researcher,Entry,Full-time,121683,156490,28-12-2024,Startup
+961,Automotive,Computer Vision Engineer,Entry,Contract,140647,193727,08-11-2023,Startup
+962,E-commerce,Data Analyst,Mid,Internship,68266,125443,25-11-2023,Startup
+963,Retail,Data Scientist,Senior,Full-time,141644,203839,23-04-2024,Startup
+964,Tech,AI Product Manager,Senior,Full-time,110260,191166,17-02-2024,Large
+965,E-commerce,Computer Vision Engineer,Entry,Contract,56178,73901,20-07-2024,Mid
+966,Tech,Quant Researcher,Senior,Contract,148430,222122,28-01-2024,Large
+967,E-commerce,Quant Researcher,Senior,Remote,130221,187925,29-09-2024,Large
+968,Retail,Computer Vision Engineer,Entry,Full-time,89082,125755,21-04-2024,Large
+969,Retail,NLP Engineer,Senior,Contract,140456,219981,08-03-2025,Startup
+970,Automotive,Computer Vision Engineer,Entry,Internship,75664,174496,13-04-2025,Large
+971,Finance,Computer Vision Engineer,Entry,Internship,74698,171496,16-06-2024,Large
+972,Education,Data Scientist,Entry,Internship,135994,178112,21-09-2023,Startup
+973,Healthcare,AI Product Manager,Mid,Remote,67828,84015,19-09-2025,Mid
+974,Education,AI Product Manager,Mid,Remote,134744,214025,02-01-2024,Mid
+975,Education,Data Scientist,Entry,Contract,123053,215790,19-01-2024,Large
+976,Retail,Data Scientist,Entry,Contract,129888,146706,06-05-2024,Mid
+977,E-commerce,AI Product Manager,Senior,Contract,134151,186280,09-08-2024,Large
+978,E-commerce,AI Product Manager,Senior,Remote,87836,151813,06-09-2024,Startup
+979,Retail,ML Engineer,Mid,Internship,98287,153537,20-04-2024,Mid
+980,Healthcare,NLP Engineer,Senior,Remote,72000,122709,27-10-2024,Mid
+981,E-commerce,Computer Vision Engineer,Senior,Internship,81871,132251,10-07-2024,Mid
+982,Retail,Quant Researcher,Entry,Remote,93878,113869,26-12-2023,Startup
+983,E-commerce,NLP Engineer,Entry,Remote,41243,77253,29-10-2023,Startup
+984,Automotive,Data Scientist,Entry,Contract,47150,124312,17-11-2023,Startup
+985,Tech,ML Engineer,Mid,Remote,127636,149510,30-10-2023,Mid
+986,Finance,NLP Engineer,Mid,Contract,130749,200032,10-01-2025,Large
+987,Education,AI Researcher,Mid,Contract,58452,155880,05-05-2025,Large
+988,Retail,Computer Vision Engineer,Senior,Contract,68117,162345,31-08-2025,Mid
+989,Healthcare,NLP Engineer,Senior,Internship,112292,131998,07-09-2024,Mid
+990,Tech,AI Product Manager,Senior,Contract,139059,151161,09-03-2025,Mid
+991,Retail,Data Analyst,Entry,Contract,110780,193559,10-03-2024,Mid
+992,Healthcare,Quant Researcher,Senior,Remote,44707,105567,13-09-2025,Startup
+993,Retail,Data Scientist,Senior,Contract,112616,150479,10-10-2023,Startup
+994,E-commerce,AI Researcher,Entry,Full-time,92121,110462,01-10-2023,Large
+995,Automotive,Quant Researcher,Mid,Internship,92112,185041,04-08-2024,Large
+996,Retail,Data Analyst,Mid,Remote,115180,140889,21-03-2025,Mid
+997,Education,ML Engineer,Mid,Internship,95776,159901,30-05-2024,Startup
+998,Tech,ML Engineer,Senior,Full-time,141251,152764,09-03-2024,Mid
+999,Finance,Data Analyst,Mid,Remote,136810,231084,18-03-2025,Startup
+1000,Retail,Data Scientist,Senior,Full-time,83889,134261,20-08-2025,Mid
+1001,Automotive,ML Engineer,Senior,Contract,101199,165364,16-02-2025,Mid
+1002,Tech,Data Analyst,Mid,Internship,131457,181221,12-06-2025,Mid
+1003,E-commerce,ML Engineer,Senior,Full-time,142849,159228,12-06-2025,Startup
+1004,Automotive,Data Scientist,Mid,Internship,138773,156637,07-12-2024,Startup
+1005,Healthcare,Data Analyst,Mid,Contract,52554,88603,14-02-2024,Large
+1006,Education,Data Analyst,Senior,Full-time,42445,87889,06-06-2025,Startup
+1007,Automotive,Quant Researcher,Entry,Internship,42100,109275,23-03-2024,Large
+1008,Retail,Quant Researcher,Mid,Contract,137547,208492,27-04-2024,Startup
+1009,Retail,ML Engineer,Entry,Contract,141946,171941,17-03-2025,Startup
+1010,Education,Quant Researcher,Mid,Full-time,131712,178157,16-03-2025,Mid
+1011,Education,ML Engineer,Mid,Remote,91126,185060,05-07-2024,Startup
+1012,Automotive,NLP Engineer,Senior,Full-time,100471,143502,07-09-2024,Large
+1013,Finance,ML Engineer,Senior,Remote,47058,78474,22-08-2025,Mid
+1014,Retail,AI Researcher,Entry,Internship,102565,184809,06-08-2025,Large
+1015,Finance,Data Analyst,Mid,Remote,61954,143718,10-06-2025,Startup
+1016,Tech,Computer Vision Engineer,Senior,Remote,83274,137815,05-01-2024,Startup
+1017,Healthcare,Data Analyst,Entry,Full-time,82652,137577,25-05-2025,Mid
+1018,Tech,NLP Engineer,Entry,Remote,84254,109338,08-04-2024,Large
+1019,Automotive,Computer Vision Engineer,Mid,Full-time,135038,234859,13-04-2025,Large
+1020,Healthcare,ML Engineer,Entry,Remote,58091,128175,02-10-2024,Startup
+1021,Tech,Data Analyst,Senior,Contract,59630,143743,21-12-2024,Startup
+1022,Healthcare,NLP Engineer,Senior,Internship,90456,177785,14-01-2024,Large
+1023,Education,NLP Engineer,Entry,Internship,130542,204720,08-11-2024,Startup
+1024,Education,AI Product Manager,Entry,Internship,74640,136034,01-04-2025,Large
+1025,E-commerce,Data Analyst,Entry,Internship,134678,199022,01-05-2025,Large
+1026,E-commerce,Data Analyst,Entry,Contract,60699,100444,11-09-2025,Mid
+1027,Education,NLP Engineer,Entry,Internship,118562,168256,27-03-2024,Mid
+1028,E-commerce,Data Scientist,Mid,Full-time,135565,208792,03-03-2024,Mid
+1029,Education,ML Engineer,Senior,Internship,102146,133999,15-12-2023,Mid
+1030,Retail,Quant Researcher,Entry,Full-time,119302,138298,05-09-2024,Startup
+1031,E-commerce,Data Analyst,Entry,Contract,49324,111133,03-04-2024,Large
+1032,E-commerce,Computer Vision Engineer,Entry,Full-time,138580,231364,06-02-2024,Startup
+1033,Finance,Quant Researcher,Mid,Contract,74176,137039,06-11-2024,Large
+1034,Healthcare,ML Engineer,Mid,Remote,131736,200711,24-05-2025,Large
+1035,E-commerce,Quant Researcher,Mid,Contract,147838,240312,30-04-2025,Large
+1036,Education,AI Product Manager,Senior,Internship,73318,132625,22-03-2024,Startup
+1037,Finance,Computer Vision Engineer,Mid,Internship,47247,120710,14-08-2025,Mid
+1038,Retail,NLP Engineer,Senior,Internship,147851,188241,11-08-2025,Startup
+1039,Tech,Data Analyst,Senior,Full-time,83545,139001,07-09-2024,Large
+1040,E-commerce,Data Scientist,Senior,Contract,113683,150250,11-12-2023,Mid
+1041,Tech,AI Researcher,Mid,Internship,85570,163706,30-01-2025,Mid
+1042,Retail,Data Analyst,Mid,Full-time,47968,108841,03-07-2024,Startup
+1043,Healthcare,Data Analyst,Entry,Internship,110576,182999,18-03-2024,Large
+1044,Tech,AI Researcher,Entry,Contract,80195,161305,01-08-2025,Startup
+1045,E-commerce,AI Product Manager,Mid,Remote,131293,216683,19-10-2024,Startup
+1046,Finance,AI Researcher,Mid,Remote,113368,178541,29-01-2024,Startup
+1047,Tech,Data Analyst,Mid,Contract,86846,98704,03-02-2025,Startup
+1048,Tech,NLP Engineer,Mid,Internship,125414,140740,01-08-2024,Mid
+1049,Automotive,Data Scientist,Entry,Internship,127708,143295,05-11-2024,Startup
+1050,Finance,NLP Engineer,Senior,Remote,136117,208595,21-10-2023,Mid
+1051,Automotive,Data Scientist,Senior,Full-time,74834,103941,04-06-2024,Mid
+1052,Automotive,Computer Vision Engineer,Mid,Internship,123956,163525,14-03-2024,Large
+1053,Finance,NLP Engineer,Mid,Internship,138221,219313,07-11-2024,Large
+1054,E-commerce,Data Scientist,Senior,Remote,46907,84839,09-08-2025,Large
+1055,Automotive,Data Scientist,Senior,Full-time,136391,226513,03-07-2024,Startup
+1056,Automotive,Data Analyst,Mid,Contract,113830,133491,09-07-2025,Mid
+1057,E-commerce,Data Analyst,Senior,Full-time,45973,72433,11-06-2024,Mid
+1058,Automotive,Data Analyst,Entry,Internship,85501,149518,30-04-2024,Large
+1059,Retail,Computer Vision Engineer,Entry,Contract,137862,169321,25-08-2025,Mid
+1060,Tech,AI Product Manager,Mid,Internship,104563,140859,04-03-2025,Startup
+1061,Tech,Data Scientist,Mid,Full-time,119393,154411,17-12-2023,Mid
+1062,Healthcare,Data Scientist,Senior,Contract,52342,65593,05-01-2024,Mid
+1063,Finance,ML Engineer,Senior,Remote,110675,194128,01-12-2023,Large
+1064,Finance,Data Scientist,Entry,Remote,93518,182685,12-06-2025,Large
+1065,Education,NLP Engineer,Entry,Contract,80174,143646,26-10-2023,Mid
+1066,Automotive,Data Analyst,Senior,Contract,90229,182531,13-03-2025,Mid
+1067,Education,Quant Researcher,Entry,Full-time,42741,138581,14-01-2024,Mid
+1068,Finance,ML Engineer,Mid,Full-time,141028,211158,31-08-2025,Startup
+1069,E-commerce,ML Engineer,Entry,Internship,62711,120957,17-02-2025,Startup
+1070,Healthcare,ML Engineer,Mid,Full-time,140092,164804,28-02-2025,Mid
+1071,Tech,AI Product Manager,Mid,Internship,72382,84197,13-04-2025,Mid
+1072,Retail,NLP Engineer,Senior,Remote,91789,114759,23-06-2025,Large
+1073,E-commerce,AI Product Manager,Entry,Internship,112036,153498,08-02-2025,Large
+1074,Healthcare,NLP Engineer,Mid,Full-time,45224,79444,13-06-2025,Startup
+1075,Automotive,Quant Researcher,Entry,Internship,62949,91600,19-12-2023,Startup
+1076,Automotive,Data Analyst,Senior,Full-time,67630,155926,25-04-2025,Large
+1077,E-commerce,AI Researcher,Entry,Contract,92512,136705,12-12-2023,Mid
+1078,Finance,Data Analyst,Mid,Remote,96374,117586,18-06-2024,Large
+1079,Retail,NLP Engineer,Mid,Internship,72840,136135,28-05-2025,Large
+1080,Retail,NLP Engineer,Mid,Remote,107564,192348,01-09-2025,Mid
+1081,Automotive,AI Product Manager,Entry,Full-time,101793,153283,14-07-2024,Startup
+1082,Retail,Data Analyst,Senior,Remote,111604,157715,25-03-2025,Startup
+1083,E-commerce,Quant Researcher,Senior,Remote,124909,142566,01-09-2025,Mid
+1084,Tech,Data Scientist,Senior,Contract,142140,231014,15-02-2024,Startup
+1085,Tech,ML Engineer,Senior,Full-time,74360,154591,24-12-2023,Startup
+1086,Healthcare,Data Analyst,Senior,Contract,142266,205665,06-04-2024,Large
+1087,E-commerce,NLP Engineer,Senior,Full-time,85449,173276,24-01-2025,Mid
+1088,Retail,AI Product Manager,Mid,Contract,72838,82839,26-09-2023,Startup
+1089,Automotive,Computer Vision Engineer,Entry,Remote,58883,94087,13-01-2024,Mid
+1090,E-commerce,Data Analyst,Entry,Internship,137871,236301,19-07-2024,Mid
+1091,Education,Quant Researcher,Senior,Remote,72807,148336,11-03-2025,Large
+1092,Finance,AI Product Manager,Senior,Full-time,121770,181258,23-02-2024,Startup
+1093,Education,Data Analyst,Entry,Internship,59736,141312,10-09-2025,Large
+1094,Automotive,Data Analyst,Mid,Internship,54563,120250,28-12-2023,Large
+1095,Tech,AI Product Manager,Senior,Full-time,59528,141804,11-12-2024,Mid
+1096,Retail,Computer Vision Engineer,Senior,Full-time,135458,162633,19-09-2025,Mid
+1097,Retail,NLP Engineer,Mid,Internship,120849,175578,20-03-2025,Startup
+1098,Automotive,ML Engineer,Entry,Internship,114398,162569,11-10-2023,Large
+1099,Tech,AI Product Manager,Entry,Remote,102033,129786,16-09-2024,Mid
+1100,E-commerce,AI Product Manager,Mid,Internship,109096,152219,13-10-2023,Startup
+1101,Healthcare,NLP Engineer,Mid,Internship,42116,124383,21-06-2024,Large
+1102,Finance,Data Scientist,Entry,Internship,101352,179549,25-07-2024,Large
+1103,Retail,AI Researcher,Senior,Full-time,66107,154510,21-11-2024,Large
+1104,Finance,NLP Engineer,Senior,Remote,47058,61355,03-12-2024,Mid
+1105,Finance,AI Researcher,Entry,Full-time,134451,175964,11-11-2023,Startup
+1106,Tech,Data Analyst,Entry,Full-time,65526,112033,13-03-2024,Startup
+1107,E-commerce,NLP Engineer,Mid,Internship,98233,144034,17-01-2025,Large
+1108,Healthcare,Quant Researcher,Senior,Internship,63107,93304,24-07-2024,Startup
+1109,Tech,Quant Researcher,Mid,Contract,111226,163698,13-09-2024,Mid
+1110,Tech,AI Product Manager,Mid,Contract,75074,155545,11-11-2023,Large
+1111,E-commerce,Quant Researcher,Mid,Full-time,80973,145159,03-10-2023,Large
+1112,Education,Quant Researcher,Mid,Contract,93507,119377,27-04-2024,Startup
+1113,Finance,ML Engineer,Senior,Internship,50076,79334,21-10-2024,Large
+1114,Automotive,Data Scientist,Entry,Contract,134300,219809,06-04-2025,Mid
+1115,Tech,NLP Engineer,Entry,Internship,97395,189060,23-12-2024,Large
+1116,Automotive,NLP Engineer,Senior,Internship,144238,220052,14-01-2024,Mid
+1117,E-commerce,Data Scientist,Mid,Contract,149741,230920,04-07-2024,Large
+1118,Retail,AI Researcher,Senior,Contract,106079,137034,08-12-2023,Mid
+1119,Automotive,Computer Vision Engineer,Senior,Remote,98445,165573,27-11-2024,Startup
+1120,Retail,ML Engineer,Senior,Contract,43140,88722,17-09-2024,Startup
+1121,Education,AI Product Manager,Mid,Remote,52046,121333,29-01-2024,Large
+1122,E-commerce,AI Product Manager,Entry,Remote,99858,123912,27-01-2025,Startup
+1123,Finance,Quant Researcher,Mid,Contract,88347,162648,22-04-2024,Mid
+1124,E-commerce,NLP Engineer,Entry,Remote,111367,142733,11-12-2024,Large
+1125,Healthcare,Data Analyst,Entry,Full-time,78429,144042,04-08-2025,Mid
+1126,Education,Computer Vision Engineer,Senior,Remote,134633,217031,27-02-2025,Large
+1127,Retail,ML Engineer,Senior,Internship,112953,211579,17-10-2024,Mid
+1128,Education,NLP Engineer,Mid,Contract,144779,159980,14-12-2023,Mid
+1129,Finance,Data Scientist,Entry,Contract,117277,164138,05-09-2025,Mid
+1130,Retail,NLP Engineer,Mid,Internship,53255,64684,16-09-2025,Mid
+1131,Retail,Data Scientist,Entry,Internship,113739,165657,05-06-2024,Startup
+1132,Retail,Computer Vision Engineer,Mid,Remote,64726,112277,24-10-2024,Mid
+1133,Education,NLP Engineer,Entry,Contract,47268,62862,23-11-2023,Startup
+1134,Automotive,Computer Vision Engineer,Senior,Internship,119846,164604,19-06-2025,Startup
+1135,Automotive,AI Product Manager,Senior,Internship,66099,141841,05-11-2023,Mid
+1136,Tech,AI Product Manager,Mid,Contract,72050,137819,31-03-2024,Mid
+1137,Education,AI Product Manager,Entry,Remote,90239,170922,24-03-2025,Startup
+1138,Automotive,Data Analyst,Senior,Remote,94397,178121,02-08-2024,Large
+1139,Finance,ML Engineer,Senior,Internship,110310,161110,18-07-2024,Startup
+1140,Finance,NLP Engineer,Entry,Internship,55784,143211,12-05-2024,Mid
+1141,Finance,Quant Researcher,Senior,Remote,149975,199905,11-04-2024,Large
+1142,Automotive,Data Analyst,Mid,Internship,82338,95759,17-08-2025,Mid
+1143,Finance,Quant Researcher,Mid,Remote,76484,111575,28-11-2024,Large
+1144,E-commerce,NLP Engineer,Entry,Internship,147639,215331,22-09-2024,Startup
+1145,Education,ML Engineer,Mid,Contract,63255,108370,10-10-2024,Mid
+1146,E-commerce,ML Engineer,Entry,Remote,129625,193613,24-07-2025,Startup
+1147,Retail,Data Scientist,Entry,Remote,136317,195529,25-07-2025,Large
+1148,Retail,AI Product Manager,Mid,Full-time,148403,180220,30-06-2024,Mid
+1149,Healthcare,Data Analyst,Senior,Full-time,142640,167377,17-04-2024,Large
+1150,Automotive,ML Engineer,Entry,Internship,143807,217646,24-02-2025,Startup
+1151,Finance,Computer Vision Engineer,Entry,Internship,83586,94806,01-07-2024,Mid
+1152,Automotive,NLP Engineer,Senior,Full-time,147570,214641,25-03-2025,Startup
+1153,Healthcare,ML Engineer,Entry,Full-time,130398,148438,23-10-2024,Mid
+1154,Retail,Quant Researcher,Mid,Full-time,126850,203760,23-11-2023,Startup
+1155,Tech,AI Researcher,Senior,Internship,63340,150275,10-04-2024,Large
+1156,Tech,Data Analyst,Senior,Internship,52424,142189,19-08-2024,Mid
+1157,Education,Quant Researcher,Mid,Contract,41157,118700,24-02-2024,Large
+1158,Finance,AI Product Manager,Mid,Contract,134795,155851,05-03-2025,Startup
+1159,Automotive,Data Scientist,Entry,Contract,147660,165793,05-05-2025,Startup
+1160,Healthcare,ML Engineer,Entry,Contract,68918,165624,17-01-2024,Mid
+1161,Healthcare,ML Engineer,Senior,Full-time,80600,149326,08-12-2023,Large
+1162,Finance,AI Researcher,Mid,Contract,60613,118504,16-01-2024,Mid
+1163,Automotive,Computer Vision Engineer,Senior,Remote,91079,126568,14-01-2025,Mid
+1164,Retail,Quant Researcher,Mid,Contract,52422,78293,02-02-2024,Startup
+1165,Education,Data Scientist,Senior,Internship,81248,174992,23-05-2024,Mid
+1166,Automotive,AI Product Manager,Senior,Internship,67293,82384,02-05-2025,Mid
+1167,Tech,Data Scientist,Mid,Contract,78872,152783,30-06-2024,Large
+1168,E-commerce,NLP Engineer,Entry,Internship,122910,136367,07-10-2023,Startup
+1169,Retail,Data Scientist,Entry,Internship,100828,139590,19-09-2025,Mid
+1170,Automotive,Computer Vision Engineer,Mid,Internship,52943,87718,12-03-2024,Startup
+1171,Finance,Data Scientist,Mid,Full-time,84079,116621,04-04-2024,Large
+1172,Healthcare,Quant Researcher,Senior,Full-time,77131,153891,02-08-2024,Large
+1173,E-commerce,AI Product Manager,Mid,Contract,64114,80848,03-01-2025,Mid
+1174,Tech,AI Product Manager,Mid,Full-time,94393,193885,27-03-2024,Startup
+1175,Automotive,AI Product Manager,Senior,Full-time,130255,148523,21-11-2024,Large
+1176,Education,ML Engineer,Mid,Internship,116734,214659,28-10-2024,Mid
+1177,Education,AI Product Manager,Senior,Full-time,148619,160261,09-09-2024,Mid
+1178,Education,Data Analyst,Entry,Contract,95762,123849,20-07-2025,Startup
+1179,Healthcare,Computer Vision Engineer,Mid,Contract,144929,213298,03-05-2025,Mid
+1180,Healthcare,AI Product Manager,Entry,Full-time,64077,123461,20-12-2023,Mid
+1181,E-commerce,Data Scientist,Entry,Contract,84270,128757,17-03-2025,Startup
+1182,Retail,Data Analyst,Mid,Remote,134675,230472,03-02-2025,Mid
+1183,Tech,AI Product Manager,Mid,Full-time,60301,147093,09-01-2025,Startup
+1184,Tech,Data Scientist,Senior,Full-time,80142,137381,09-02-2025,Mid
+1185,Automotive,AI Researcher,Entry,Contract,139587,157245,30-08-2024,Startup
+1186,Tech,AI Researcher,Entry,Full-time,132458,195780,01-08-2025,Large
+1187,Finance,ML Engineer,Entry,Contract,44138,83858,30-08-2025,Large
+1188,Automotive,ML Engineer,Entry,Contract,85552,135909,01-06-2024,Mid
+1189,Finance,Data Scientist,Entry,Remote,78016,138883,23-03-2024,Startup
+1190,Finance,AI Researcher,Senior,Remote,132214,163110,03-10-2023,Mid
+1191,Retail,ML Engineer,Senior,Full-time,139424,155189,30-04-2024,Large
+1192,Retail,AI Researcher,Mid,Internship,77201,136368,21-12-2023,Startup
+1193,Automotive,Data Analyst,Mid,Contract,53641,106882,21-10-2024,Startup
+1194,E-commerce,Data Scientist,Senior,Contract,54875,88396,02-02-2025,Mid
+1195,E-commerce,Data Scientist,Mid,Contract,71896,133164,27-01-2024,Mid
+1196,E-commerce,Computer Vision Engineer,Entry,Full-time,54199,121277,09-02-2024,Startup
+1197,Automotive,NLP Engineer,Mid,Remote,58539,140291,19-05-2025,Startup
+1198,Healthcare,AI Researcher,Mid,Internship,81361,133784,31-12-2023,Startup
+1199,Retail,Data Scientist,Senior,Remote,107193,148881,26-10-2023,Startup
+1200,Education,Data Scientist,Entry,Contract,101110,159072,31-03-2025,Large
+1201,Retail,Quant Researcher,Entry,Full-time,136800,229914,21-09-2024,Mid
+1202,Tech,ML Engineer,Mid,Internship,124475,186998,25-03-2025,Startup
+1203,Tech,Data Scientist,Senior,Internship,132410,187652,08-08-2024,Large
+1204,E-commerce,NLP Engineer,Mid,Full-time,112490,177711,06-11-2023,Startup
+1205,Retail,Quant Researcher,Entry,Internship,87425,138303,11-07-2025,Mid
+1206,Finance,Quant Researcher,Entry,Contract,67422,166675,17-08-2024,Large
+1207,Automotive,Data Scientist,Senior,Remote,60629,128509,25-01-2025,Mid
+1208,Automotive,Data Analyst,Mid,Internship,141368,183538,05-10-2023,Startup
+1209,E-commerce,AI Researcher,Entry,Remote,125075,152579,03-10-2024,Startup
+1210,Education,Data Scientist,Mid,Full-time,140375,183044,11-01-2024,Mid
+1211,Finance,Quant Researcher,Entry,Internship,58608,145805,28-09-2023,Startup
+1212,Automotive,ML Engineer,Mid,Internship,51771,68566,01-01-2025,Mid
+1213,Automotive,Data Analyst,Senior,Internship,87515,163452,20-06-2024,Startup
+1214,Healthcare,NLP Engineer,Entry,Remote,140185,236787,10-09-2025,Large
+1215,Healthcare,AI Product Manager,Mid,Internship,52829,97624,13-08-2025,Mid
+1216,E-commerce,Data Analyst,Entry,Internship,132513,230452,12-07-2024,Mid
+1217,Automotive,AI Researcher,Entry,Remote,84716,150208,22-12-2024,Mid
+1218,Tech,Data Analyst,Entry,Internship,57691,76940,08-01-2025,Large
+1219,Retail,AI Researcher,Entry,Internship,124533,208279,15-12-2024,Mid
+1220,Healthcare,AI Product Manager,Entry,Internship,91133,152395,14-04-2024,Startup
+1221,Healthcare,Computer Vision Engineer,Mid,Full-time,45671,90178,03-10-2023,Mid
+1222,Finance,ML Engineer,Senior,Contract,82804,138709,17-11-2023,Mid
+1223,Tech,ML Engineer,Entry,Internship,91610,132764,28-07-2024,Mid
+1224,Finance,Quant Researcher,Entry,Full-time,68574,108118,29-08-2024,Large
+1225,Retail,NLP Engineer,Entry,Internship,124562,213852,07-01-2024,Mid
+1226,Education,AI Researcher,Mid,Internship,86589,178866,16-03-2024,Large
+1227,Education,Quant Researcher,Mid,Remote,93501,130789,07-03-2024,Startup
+1228,E-commerce,Data Analyst,Entry,Contract,57590,85895,09-12-2024,Large
+1229,Finance,Quant Researcher,Entry,Contract,142708,157155,28-06-2024,Mid
+1230,Finance,AI Product Manager,Mid,Internship,140520,166869,11-03-2024,Startup
+1231,Tech,AI Product Manager,Senior,Internship,93505,152567,25-03-2024,Startup
+1232,Healthcare,Data Scientist,Entry,Full-time,137712,152412,17-06-2024,Startup
+1233,Education,AI Product Manager,Senior,Full-time,100873,150041,16-04-2024,Mid
+1234,Finance,Data Scientist,Senior,Internship,86191,119779,06-10-2024,Startup
+1235,E-commerce,Data Scientist,Entry,Full-time,107174,166157,15-12-2023,Large
+1236,E-commerce,AI Product Manager,Senior,Remote,133743,163382,14-06-2025,Startup
+1237,Healthcare,NLP Engineer,Entry,Contract,44626,114268,07-09-2025,Startup
+1238,Finance,Quant Researcher,Mid,Remote,42058,140636,06-06-2024,Startup
+1239,E-commerce,AI Researcher,Entry,Full-time,83416,151596,03-07-2025,Large
+1240,Education,AI Researcher,Mid,Full-time,136005,149348,29-10-2023,Large
+1241,Education,NLP Engineer,Senior,Contract,142696,209766,31-01-2025,Mid
+1242,Finance,AI Researcher,Mid,Remote,57791,105397,23-09-2023,Large
+1243,Finance,AI Researcher,Mid,Contract,117104,212155,05-03-2024,Large
+1244,Retail,Data Scientist,Entry,Full-time,81222,98058,17-01-2024,Startup
+1245,Automotive,Data Analyst,Senior,Contract,136657,216930,20-02-2025,Large
+1246,Finance,Computer Vision Engineer,Mid,Contract,117119,152032,19-04-2025,Startup
+1247,Healthcare,NLP Engineer,Entry,Full-time,98470,180907,27-02-2024,Large
+1248,Tech,AI Researcher,Entry,Internship,120633,178318,12-01-2024,Mid
+1249,Healthcare,Quant Researcher,Senior,Contract,95461,193480,23-08-2024,Startup
+1250,Automotive,AI Researcher,Mid,Contract,102123,122063,04-10-2023,Mid
+1251,Automotive,ML Engineer,Mid,Full-time,111473,178933,15-01-2024,Mid
+1252,Retail,Data Analyst,Entry,Contract,128138,226109,29-06-2025,Large
+1253,Automotive,Computer Vision Engineer,Senior,Remote,97139,170282,26-02-2024,Mid
+1254,Tech,Computer Vision Engineer,Senior,Internship,137454,165905,15-04-2025,Mid
+1255,Education,AI Product Manager,Mid,Remote,42730,121043,08-07-2024,Large
+1256,Education,NLP Engineer,Senior,Remote,121082,204983,10-07-2025,Startup
+1257,Automotive,AI Researcher,Mid,Remote,94437,128266,20-08-2025,Mid
+1258,Finance,Computer Vision Engineer,Senior,Remote,67907,106672,31-03-2024,Startup
+1259,Automotive,Data Scientist,Entry,Internship,95122,188498,01-04-2025,Mid
+1260,Education,Quant Researcher,Senior,Full-time,141020,194689,20-07-2024,Mid
+1261,E-commerce,Data Scientist,Senior,Full-time,133090,175529,22-04-2025,Large
+1262,Education,Data Analyst,Senior,Contract,96867,163829,24-07-2025,Large
+1263,E-commerce,Data Analyst,Entry,Full-time,133145,195186,18-03-2025,Mid
+1264,Education,AI Researcher,Mid,Internship,44966,73083,05-11-2024,Large
+1265,Healthcare,AI Product Manager,Senior,Full-time,113803,173152,18-01-2024,Mid
+1266,E-commerce,AI Researcher,Entry,Full-time,96732,192601,20-02-2025,Large
+1267,Retail,Data Analyst,Senior,Full-time,137258,223013,09-01-2024,Startup
+1268,Education,Data Scientist,Senior,Remote,129628,217643,19-12-2024,Mid
+1269,Education,Data Scientist,Senior,Full-time,98960,171179,18-02-2025,Large
+1270,Tech,Quant Researcher,Mid,Full-time,98270,193839,05-06-2024,Large
+1271,Education,Data Scientist,Mid,Internship,112886,206291,28-03-2025,Large
+1272,Tech,NLP Engineer,Entry,Contract,74842,147593,18-04-2025,Startup
+1273,Healthcare,AI Researcher,Entry,Full-time,132532,204945,19-01-2024,Startup
+1274,Education,Data Analyst,Entry,Contract,85034,163334,05-09-2025,Startup
+1275,Healthcare,AI Researcher,Senior,Full-time,69810,147152,02-01-2024,Mid
+1276,Automotive,AI Product Manager,Senior,Contract,123414,145432,31-01-2025,Startup
+1277,Automotive,AI Researcher,Senior,Remote,142118,211573,10-02-2025,Mid
+1278,Retail,NLP Engineer,Senior,Internship,93048,182709,10-09-2024,Large
+1279,Retail,Quant Researcher,Entry,Full-time,143586,192237,23-10-2024,Startup
+1280,Automotive,NLP Engineer,Entry,Internship,130633,195258,20-02-2025,Mid
+1281,E-commerce,ML Engineer,Entry,Remote,47496,67158,30-05-2024,Large
+1282,Finance,Quant Researcher,Senior,Full-time,98888,179005,19-10-2023,Startup
+1283,Automotive,Data Analyst,Mid,Remote,68341,101863,10-01-2025,Startup
+1284,Retail,NLP Engineer,Mid,Internship,53719,90956,28-03-2024,Startup
+1285,Healthcare,Data Scientist,Senior,Contract,85034,137565,06-02-2024,Startup
+1286,Automotive,ML Engineer,Senior,Remote,78685,174178,26-03-2025,Startup
+1287,Tech,Data Scientist,Entry,Full-time,125195,148007,28-04-2025,Large
+1288,E-commerce,Data Analyst,Entry,Full-time,59356,113740,03-03-2025,Large
+1289,E-commerce,ML Engineer,Entry,Full-time,98434,136560,18-03-2025,Startup
+1290,Tech,ML Engineer,Mid,Remote,114993,167476,30-08-2024,Startup
+1291,Finance,Data Scientist,Senior,Remote,44859,105193,22-01-2024,Large
+1292,Healthcare,AI Researcher,Senior,Internship,112082,168256,27-12-2024,Startup
+1293,Education,Data Analyst,Senior,Remote,74410,152948,22-09-2024,Startup
+1294,Retail,Quant Researcher,Entry,Contract,86695,101255,27-06-2024,Mid
+1295,Retail,Data Scientist,Mid,Internship,133790,219591,11-07-2025,Startup
+1296,Tech,AI Researcher,Mid,Remote,52444,92373,26-10-2023,Large
+1297,Finance,Quant Researcher,Mid,Internship,123880,187230,25-05-2025,Mid
+1298,Automotive,NLP Engineer,Mid,Full-time,146084,231984,11-10-2024,Large
+1299,Healthcare,Computer Vision Engineer,Entry,Contract,56481,84513,16-05-2025,Mid
+1300,Retail,NLP Engineer,Senior,Full-time,57340,68602,08-07-2024,Startup
+1301,Finance,NLP Engineer,Senior,Full-time,118381,202353,18-09-2025,Startup
+1302,Education,NLP Engineer,Mid,Full-time,119065,138839,07-04-2024,Large
+1303,Healthcare,AI Product Manager,Entry,Remote,137144,230874,17-07-2025,Large
+1304,Retail,Data Scientist,Mid,Remote,55380,126665,18-07-2025,Startup
+1305,Automotive,AI Product Manager,Entry,Internship,97367,187232,18-08-2024,Startup
+1306,Automotive,NLP Engineer,Mid,Remote,61468,116118,10-09-2024,Large
+1307,Tech,Data Analyst,Entry,Remote,115727,146548,26-10-2024,Mid
+1308,Retail,Computer Vision Engineer,Mid,Internship,87853,140156,29-06-2024,Startup
+1309,Finance,Quant Researcher,Senior,Contract,143861,179759,25-05-2024,Startup
+1310,Automotive,NLP Engineer,Senior,Full-time,67012,121933,12-07-2024,Startup
+1311,Tech,AI Researcher,Entry,Contract,41971,77635,09-07-2024,Large
+1312,Retail,NLP Engineer,Senior,Remote,139502,184795,08-08-2024,Startup
+1313,Retail,Quant Researcher,Mid,Full-time,45567,73023,31-01-2024,Startup
+1314,Retail,NLP Engineer,Entry,Internship,136733,208599,10-02-2025,Startup
+1315,Automotive,Quant Researcher,Mid,Contract,89039,133332,23-09-2024,Mid
+1316,E-commerce,Data Scientist,Mid,Contract,115624,135750,03-10-2023,Large
+1317,Education,AI Researcher,Mid,Internship,101178,186066,16-04-2024,Large
+1318,E-commerce,NLP Engineer,Senior,Remote,123425,181886,13-02-2025,Startup
+1319,Education,ML Engineer,Entry,Internship,70478,128940,28-08-2025,Large
+1320,E-commerce,Quant Researcher,Mid,Contract,54468,79575,23-03-2024,Large
+1321,Retail,ML Engineer,Entry,Internship,118961,131569,28-04-2024,Large
+1322,E-commerce,ML Engineer,Senior,Remote,77357,139297,10-03-2025,Mid
+1323,Retail,AI Product Manager,Entry,Internship,73723,124812,13-06-2024,Startup
+1324,E-commerce,AI Product Manager,Entry,Internship,56407,108451,13-12-2023,Startup
+1325,Education,AI Researcher,Senior,Full-time,66257,85472,02-01-2025,Mid
+1326,Tech,NLP Engineer,Entry,Remote,119426,210962,12-03-2025,Large
+1327,Automotive,AI Researcher,Senior,Contract,143238,190147,06-06-2025,Mid
+1328,E-commerce,Data Analyst,Mid,Contract,95911,153606,15-09-2024,Large
+1329,E-commerce,NLP Engineer,Entry,Contract,144692,182426,09-08-2024,Large
+1330,Finance,AI Product Manager,Mid,Contract,65633,128186,03-09-2025,Large
+1331,Education,AI Researcher,Mid,Remote,96745,117500,15-09-2025,Mid
+1332,Automotive,AI Researcher,Entry,Remote,90844,116911,23-08-2024,Large
+1333,Healthcare,Data Scientist,Senior,Internship,127738,213346,24-02-2025,Large
+1334,E-commerce,Computer Vision Engineer,Entry,Remote,40044,122431,05-11-2023,Mid
+1335,Healthcare,AI Researcher,Entry,Full-time,87576,154227,17-05-2024,Large
+1336,Automotive,AI Researcher,Senior,Full-time,127240,171690,11-12-2023,Large
+1337,Education,ML Engineer,Entry,Remote,79966,166524,06-07-2025,Mid
+1338,Finance,ML Engineer,Senior,Contract,145861,182592,21-02-2025,Startup
+1339,Retail,Data Scientist,Entry,Remote,72218,140897,18-05-2025,Large
+1340,Healthcare,ML Engineer,Mid,Full-time,44006,88400,14-04-2024,Mid
+1341,Education,Quant Researcher,Entry,Remote,43780,84358,15-01-2024,Mid
+1342,Tech,Quant Researcher,Entry,Internship,61249,134740,20-01-2024,Large
+1343,Education,Data Analyst,Entry,Internship,149324,195524,04-12-2024,Large
+1344,E-commerce,Data Scientist,Entry,Contract,143363,168572,02-09-2025,Startup
+1345,Automotive,AI Researcher,Senior,Internship,93073,108827,01-12-2023,Large
+1346,Healthcare,Quant Researcher,Entry,Full-time,144902,243389,20-05-2025,Large
+1347,Automotive,AI Product Manager,Mid,Contract,73201,96873,21-01-2025,Mid
+1348,Tech,AI Product Manager,Entry,Contract,53695,121552,01-02-2024,Large
+1349,Retail,ML Engineer,Mid,Contract,42104,140917,29-08-2025,Mid
+1350,E-commerce,ML Engineer,Mid,Internship,146786,165131,18-10-2023,Large
+1351,E-commerce,AI Researcher,Senior,Contract,52261,62954,30-07-2025,Startup
+1352,Automotive,ML Engineer,Entry,Internship,124350,175380,30-01-2024,Large
+1353,Education,Computer Vision Engineer,Entry,Internship,122574,158266,06-03-2025,Startup
+1354,Education,Data Analyst,Entry,Full-time,50676,79231,29-03-2025,Mid
+1355,Retail,AI Product Manager,Mid,Internship,59596,145072,06-07-2024,Large
+1356,E-commerce,Quant Researcher,Mid,Remote,52352,106000,12-11-2024,Startup
+1357,Automotive,AI Researcher,Senior,Contract,44992,67962,20-05-2024,Startup
+1358,Healthcare,AI Product Manager,Mid,Remote,76958,104030,17-10-2024,Startup
+1359,Automotive,Data Analyst,Mid,Full-time,113006,141758,03-02-2024,Startup
+1360,Education,AI Product Manager,Entry,Internship,110023,151959,28-12-2023,Large
+1361,Finance,Computer Vision Engineer,Senior,Internship,139711,223197,01-01-2024,Startup
+1362,Tech,Computer Vision Engineer,Mid,Internship,101687,193715,26-09-2023,Large
+1363,E-commerce,Computer Vision Engineer,Senior,Remote,148358,235635,16-11-2023,Startup
+1364,E-commerce,ML Engineer,Senior,Remote,112045,176528,26-04-2024,Startup
+1365,E-commerce,AI Researcher,Senior,Full-time,89570,149201,03-03-2024,Startup
+1366,Finance,Data Scientist,Entry,Full-time,47542,119102,12-02-2025,Startup
+1367,Retail,Computer Vision Engineer,Mid,Remote,71640,85301,13-08-2025,Large
+1368,Healthcare,AI Researcher,Mid,Contract,107629,145979,24-05-2024,Large
+1369,Education,Quant Researcher,Senior,Full-time,97661,179130,26-02-2024,Mid
+1370,E-commerce,Quant Researcher,Entry,Remote,72703,140316,22-09-2023,Mid
+1371,Finance,Data Scientist,Mid,Internship,120028,152472,01-05-2024,Mid
+1372,Education,Data Analyst,Mid,Full-time,94017,182469,26-10-2024,Large
+1373,E-commerce,Computer Vision Engineer,Senior,Contract,117882,213004,09-03-2024,Startup
+1374,Education,AI Product Manager,Senior,Remote,54113,93140,17-08-2025,Large
+1375,Automotive,NLP Engineer,Entry,Remote,115738,195091,05-03-2024,Mid
+1376,Education,AI Product Manager,Entry,Internship,72794,126656,26-07-2024,Large
+1377,Automotive,AI Product Manager,Entry,Full-time,97964,155467,13-07-2025,Mid
+1378,Automotive,AI Product Manager,Entry,Full-time,65913,127356,25-05-2024,Mid
+1379,Healthcare,Quant Researcher,Mid,Remote,88549,108694,24-07-2024,Large
+1380,Finance,ML Engineer,Mid,Internship,134773,213155,20-05-2025,Mid
+1381,Finance,Computer Vision Engineer,Mid,Contract,54397,133038,24-06-2025,Large
+1382,E-commerce,Data Scientist,Senior,Contract,106470,120224,19-09-2025,Startup
+1383,Education,AI Researcher,Mid,Full-time,69114,96062,27-10-2024,Startup
+1384,Healthcare,Data Scientist,Mid,Internship,132907,203452,28-08-2025,Large
+1385,Finance,Data Analyst,Senior,Remote,46314,103590,16-10-2023,Startup
+1386,Automotive,ML Engineer,Entry,Internship,149066,207483,29-08-2025,Startup
+1387,Retail,Quant Researcher,Senior,Full-time,125945,180189,27-01-2025,Mid
+1388,Retail,Computer Vision Engineer,Mid,Remote,119221,152590,23-01-2024,Mid
+1389,Automotive,ML Engineer,Senior,Contract,84230,111464,08-05-2024,Startup
+1390,Education,AI Researcher,Senior,Contract,65718,165024,13-01-2025,Startup
+1391,Automotive,Quant Researcher,Entry,Internship,117920,214828,28-01-2025,Startup
+1392,Tech,Data Scientist,Senior,Internship,139463,235020,08-03-2024,Startup
+1393,Education,Quant Researcher,Mid,Contract,125497,137583,08-07-2024,Large
+1394,E-commerce,ML Engineer,Senior,Internship,135863,181350,07-12-2023,Large
+1395,Healthcare,ML Engineer,Entry,Full-time,106509,131532,06-09-2025,Mid
+1396,Tech,NLP Engineer,Entry,Full-time,106378,122693,26-08-2024,Mid
+1397,Automotive,Computer Vision Engineer,Mid,Remote,124196,209492,29-11-2024,Large
+1398,Healthcare,Data Analyst,Senior,Contract,137549,211945,05-08-2024,Mid
+1399,Education,NLP Engineer,Senior,Internship,86557,115492,21-02-2024,Startup
+1400,Retail,AI Product Manager,Entry,Full-time,89046,110627,16-12-2024,Mid
+1401,Retail,AI Researcher,Mid,Remote,127351,220767,28-12-2024,Large
+1402,Retail,ML Engineer,Mid,Internship,122699,207906,30-03-2024,Large
+1403,Healthcare,AI Researcher,Entry,Full-time,138388,235443,05-03-2025,Mid
+1404,Retail,ML Engineer,Mid,Full-time,117976,189783,22-09-2024,Mid
+1405,Retail,Data Analyst,Mid,Remote,120521,199525,25-11-2023,Mid
+1406,Automotive,Quant Researcher,Entry,Internship,73584,110294,17-11-2024,Large
+1407,Healthcare,Computer Vision Engineer,Senior,Full-time,110581,138577,23-06-2025,Startup
+1408,E-commerce,AI Product Manager,Entry,Remote,65517,143228,18-05-2025,Mid
+1409,Retail,AI Product Manager,Senior,Full-time,116334,191378,25-09-2024,Startup
+1410,Automotive,ML Engineer,Mid,Internship,104129,180066,29-07-2025,Mid
+1411,E-commerce,NLP Engineer,Senior,Internship,51112,66328,29-11-2024,Startup
+1412,Healthcare,Data Scientist,Senior,Full-time,101917,123000,04-01-2025,Startup
+1413,Automotive,AI Product Manager,Senior,Full-time,79029,130633,19-04-2024,Large
+1414,E-commerce,AI Product Manager,Mid,Contract,143756,214831,06-07-2025,Startup
+1415,Tech,Data Scientist,Entry,Remote,85533,108720,06-05-2024,Large
+1416,Automotive,Quant Researcher,Entry,Full-time,113696,156285,09-06-2025,Large
+1417,Healthcare,Computer Vision Engineer,Mid,Internship,44327,114164,02-03-2025,Startup
+1418,Automotive,Data Analyst,Senior,Full-time,42174,115778,22-12-2023,Startup
+1419,Education,Data Scientist,Entry,Contract,83012,128069,27-02-2025,Mid
+1420,Automotive,Quant Researcher,Entry,Remote,94512,159116,06-10-2024,Startup
+1421,Education,ML Engineer,Entry,Internship,56379,96578,08-03-2024,Startup
+1422,Tech,NLP Engineer,Mid,Internship,67160,129962,16-11-2024,Startup
+1423,Retail,Computer Vision Engineer,Senior,Full-time,41141,82048,20-07-2025,Startup
+1424,Automotive,AI Product Manager,Mid,Full-time,119291,180214,16-08-2024,Large
+1425,Automotive,NLP Engineer,Senior,Contract,68514,83310,25-02-2025,Large
+1426,Education,AI Researcher,Entry,Internship,136136,173242,12-11-2024,Large
+1427,Tech,ML Engineer,Senior,Remote,84014,111768,27-04-2025,Mid
+1428,Retail,Computer Vision Engineer,Entry,Full-time,95419,156635,18-02-2024,Startup
+1429,E-commerce,Data Analyst,Entry,Contract,149578,227156,14-09-2025,Mid
+1430,Tech,NLP Engineer,Mid,Internship,76646,175442,28-08-2024,Large
+1431,Finance,Data Scientist,Senior,Contract,59448,101920,08-03-2024,Mid
+1432,Healthcare,NLP Engineer,Entry,Remote,41904,79881,27-12-2023,Startup
+1433,Automotive,ML Engineer,Entry,Contract,122152,211094,15-08-2024,Startup
+1434,Education,Data Scientist,Mid,Contract,148075,159793,05-05-2024,Mid
+1435,Education,NLP Engineer,Senior,Internship,138448,172737,28-01-2024,Startup
+1436,Tech,ML Engineer,Entry,Full-time,114961,137232,23-12-2023,Mid
+1437,Automotive,AI Product Manager,Entry,Internship,120680,197411,23-12-2023,Startup
+1438,Automotive,Data Analyst,Entry,Remote,130193,219722,19-08-2025,Mid
+1439,Tech,Data Analyst,Senior,Remote,63320,102902,07-04-2025,Large
+1440,E-commerce,Quant Researcher,Mid,Full-time,144303,234237,05-07-2025,Startup
+1441,Finance,Computer Vision Engineer,Mid,Contract,125644,191197,18-04-2025,Startup
+1442,Retail,Computer Vision Engineer,Senior,Full-time,124397,179920,25-07-2024,Startup
+1443,Finance,Data Analyst,Senior,Full-time,100967,158917,20-10-2023,Startup
+1444,Tech,Computer Vision Engineer,Mid,Contract,86614,168639,29-05-2025,Mid
+1445,Retail,Computer Vision Engineer,Entry,Internship,91509,117239,23-11-2023,Large
+1446,E-commerce,AI Product Manager,Mid,Internship,105140,164172,05-01-2025,Large
+1447,Retail,Data Analyst,Entry,Remote,117356,209343,24-11-2024,Startup
+1448,Finance,AI Product Manager,Senior,Remote,140190,184813,19-04-2025,Startup
+1449,Education,Quant Researcher,Senior,Internship,91516,113851,02-07-2024,Startup
+1450,Retail,ML Engineer,Senior,Full-time,42598,130452,04-03-2024,Startup
+1451,Healthcare,Data Analyst,Entry,Remote,43782,76516,19-02-2025,Startup
+1452,Healthcare,ML Engineer,Senior,Internship,113253,141139,25-01-2025,Mid
+1453,Healthcare,ML Engineer,Senior,Full-time,103189,201637,21-12-2024,Startup
+1454,Automotive,Data Analyst,Senior,Contract,40447,58415,13-09-2024,Startup
+1455,Healthcare,AI Product Manager,Senior,Internship,66165,124209,24-02-2025,Startup
+1456,Automotive,NLP Engineer,Senior,Contract,55662,72677,13-01-2025,Startup
+1457,Education,NLP Engineer,Senior,Full-time,82452,157433,07-01-2025,Mid
+1458,Education,AI Researcher,Entry,Full-time,89994,162981,09-03-2025,Startup
+1459,Retail,NLP Engineer,Entry,Full-time,88502,151208,13-08-2025,Large
+1460,Retail,NLP Engineer,Senior,Remote,104608,194654,12-11-2023,Startup
+1461,Finance,Computer Vision Engineer,Senior,Remote,59714,136906,16-02-2024,Startup
+1462,Education,Quant Researcher,Mid,Contract,129435,219563,18-01-2025,Startup
+1463,Education,AI Product Manager,Mid,Remote,98022,116786,30-05-2024,Mid
+1464,Education,Data Analyst,Senior,Contract,74164,101550,24-10-2024,Large
+1465,E-commerce,NLP Engineer,Mid,Internship,125699,188499,14-05-2024,Startup
+1466,Healthcare,AI Researcher,Senior,Contract,81948,127477,09-03-2025,Large
+1467,Tech,ML Engineer,Entry,Internship,86924,166800,14-10-2024,Mid
+1468,Retail,AI Researcher,Senior,Contract,139991,156099,12-09-2024,Startup
+1469,Tech,AI Researcher,Entry,Full-time,121461,158777,12-02-2024,Mid
+1470,Retail,Data Analyst,Senior,Full-time,41311,111484,31-10-2024,Mid
+1471,Retail,Computer Vision Engineer,Senior,Remote,42488,58522,08-08-2024,Startup
+1472,Education,Data Analyst,Entry,Remote,74011,171651,11-09-2024,Mid
+1473,E-commerce,AI Researcher,Senior,Full-time,91345,189314,20-06-2025,Mid
+1474,Healthcare,ML Engineer,Mid,Contract,114617,173395,11-09-2024,Large
+1475,Finance,Data Scientist,Senior,Contract,52660,62953,05-02-2025,Mid
+1476,Automotive,Computer Vision Engineer,Mid,Internship,78844,134900,04-08-2024,Startup
+1477,Education,NLP Engineer,Entry,Full-time,95991,162094,31-01-2025,Large
+1478,Finance,Computer Vision Engineer,Senior,Contract,119616,205812,15-02-2024,Large
+1479,Tech,Quant Researcher,Entry,Contract,68863,85315,18-03-2025,Startup
+1480,Education,Data Scientist,Entry,Contract,47522,136959,24-09-2023,Large
+1481,Tech,NLP Engineer,Mid,Internship,72658,145079,19-10-2023,Startup
+1482,Finance,NLP Engineer,Mid,Remote,72872,168844,16-11-2024,Startup
+1483,E-commerce,Data Analyst,Senior,Contract,49176,116584,19-07-2025,Startup
+1484,Finance,NLP Engineer,Mid,Remote,40845,77525,17-02-2025,Startup
+1485,Education,Quant Researcher,Mid,Remote,105204,144217,29-10-2023,Mid
+1486,Tech,Data Scientist,Mid,Remote,108521,197495,19-11-2023,Mid
+1487,Healthcare,AI Product Manager,Mid,Internship,43865,142219,10-09-2025,Startup
+1488,Automotive,Computer Vision Engineer,Senior,Contract,133579,222158,12-12-2024,Startup
+1489,Tech,ML Engineer,Mid,Full-time,46712,73011,27-07-2024,Mid
+1490,Automotive,AI Researcher,Entry,Full-time,84284,167397,08-11-2023,Mid
+1491,Healthcare,NLP Engineer,Senior,Full-time,135833,197643,12-02-2025,Large
+1492,Automotive,Computer Vision Engineer,Entry,Full-time,141467,155307,03-11-2024,Startup
+1493,Finance,Computer Vision Engineer,Mid,Remote,123819,202854,28-09-2024,Mid
+1494,Finance,Data Analyst,Entry,Full-time,98582,135739,05-07-2025,Large
+1495,Healthcare,AI Researcher,Entry,Full-time,92626,143007,13-11-2023,Mid
+1496,Healthcare,AI Product Manager,Senior,Contract,108432,195288,09-09-2024,Large
+1497,E-commerce,AI Product Manager,Entry,Remote,121907,204567,04-07-2024,Large
+1498,Finance,NLP Engineer,Entry,Contract,85589,148109,23-12-2024,Mid
+1499,Tech,NLP Engineer,Senior,Contract,139437,239385,07-06-2025,Large
+1500,E-commerce,Quant Researcher,Senior,Internship,90279,128707,22-02-2024,Startup
+1501,Tech,Quant Researcher,Entry,Internship,71813,105633,27-01-2024,Large
+1502,Finance,Computer Vision Engineer,Senior,Internship,55539,114892,28-08-2025,Large
+1503,E-commerce,AI Researcher,Entry,Remote,145430,192975,21-11-2024,Large
+1504,Education,AI Product Manager,Senior,Internship,47867,139682,22-07-2025,Mid
+1505,Tech,Computer Vision Engineer,Mid,Full-time,64749,164044,26-06-2025,Large
+1506,Tech,AI Product Manager,Mid,Remote,72744,151257,28-02-2024,Startup
+1507,E-commerce,Computer Vision Engineer,Mid,Remote,102252,156748,15-11-2024,Large
+1508,Retail,AI Product Manager,Entry,Internship,75063,90302,10-03-2024,Startup
+1509,Education,Data Analyst,Entry,Full-time,49065,72252,08-06-2025,Mid
+1510,Automotive,NLP Engineer,Entry,Contract,138980,186003,17-12-2024,Startup
+1511,Finance,AI Researcher,Entry,Internship,116702,165765,24-10-2024,Mid
+1512,Education,NLP Engineer,Senior,Full-time,49864,72810,21-03-2024,Startup
+1513,Tech,AI Researcher,Mid,Remote,105130,146172,08-12-2023,Large
+1514,Healthcare,Data Analyst,Entry,Full-time,74633,121776,29-12-2024,Startup
+1515,Healthcare,Quant Researcher,Senior,Remote,56993,155521,13-07-2025,Large
+1516,Automotive,Computer Vision Engineer,Entry,Full-time,46611,66817,20-12-2023,Large
+1517,Finance,Data Scientist,Senior,Internship,46024,113373,25-10-2024,Mid
+1518,Retail,Computer Vision Engineer,Senior,Internship,41220,94501,29-12-2023,Startup
+1519,Tech,Data Scientist,Senior,Internship,140240,228848,08-01-2024,Mid
+1520,E-commerce,AI Product Manager,Mid,Contract,136191,223887,06-12-2024,Mid
+1521,Finance,ML Engineer,Mid,Internship,103253,177379,12-07-2025,Large
+1522,Retail,NLP Engineer,Entry,Full-time,132044,204939,07-10-2024,Mid
+1523,Tech,AI Researcher,Mid,Internship,50076,116015,27-11-2024,Startup
+1524,Automotive,Data Scientist,Entry,Remote,92423,112166,21-01-2024,Startup
+1525,Retail,NLP Engineer,Entry,Internship,141773,190766,03-10-2023,Mid
+1526,E-commerce,NLP Engineer,Mid,Remote,57442,108303,29-09-2024,Mid
+1527,Tech,Quant Researcher,Entry,Internship,125288,172272,21-10-2023,Startup
+1528,E-commerce,Quant Researcher,Entry,Contract,109244,192898,30-09-2024,Large
+1529,Automotive,AI Product Manager,Senior,Full-time,89405,129344,10-03-2024,Large
+1530,Tech,Computer Vision Engineer,Mid,Internship,125228,201338,04-04-2024,Mid
+1531,E-commerce,AI Product Manager,Mid,Contract,119543,164615,15-12-2023,Mid
+1532,Automotive,Computer Vision Engineer,Senior,Internship,69269,155758,18-05-2025,Large
+1533,Retail,AI Product Manager,Entry,Full-time,75472,162820,24-06-2025,Large
+1534,Retail,Data Scientist,Senior,Full-time,120392,155826,23-06-2025,Startup
+1535,Tech,ML Engineer,Entry,Full-time,83724,177161,09-05-2024,Large
+1536,Finance,ML Engineer,Senior,Internship,43526,94615,25-01-2024,Mid
+1537,Automotive,Computer Vision Engineer,Mid,Contract,69190,92823,05-01-2024,Large
+1538,Tech,Computer Vision Engineer,Entry,Full-time,142140,185091,25-08-2025,Mid
+1539,Finance,Data Scientist,Senior,Internship,137496,177845,29-11-2023,Large
+1540,Automotive,Data Scientist,Mid,Contract,102029,128204,19-03-2024,Mid
+1541,Automotive,Computer Vision Engineer,Entry,Internship,124300,220342,17-10-2023,Mid
+1542,Retail,Data Scientist,Entry,Full-time,149747,212159,06-10-2024,Startup
+1543,E-commerce,Data Scientist,Senior,Remote,58550,113209,06-01-2025,Large
+1544,Healthcare,ML Engineer,Mid,Contract,136005,206557,16-01-2025,Large
+1545,Automotive,Data Analyst,Entry,Contract,149181,225098,12-07-2024,Startup
+1546,Healthcare,Quant Researcher,Entry,Remote,133857,182147,24-06-2025,Large
+1547,Education,AI Researcher,Senior,Contract,117573,173851,24-05-2024,Large
+1548,Healthcare,AI Researcher,Senior,Internship,85363,130119,11-07-2025,Startup
+1549,E-commerce,Quant Researcher,Mid,Remote,56646,83703,09-03-2025,Startup
+1550,Education,Computer Vision Engineer,Mid,Full-time,102732,135345,16-10-2023,Mid
+1551,Finance,AI Researcher,Senior,Remote,45791,105166,23-09-2024,Large
+1552,Finance,AI Product Manager,Senior,Full-time,59099,87832,08-04-2025,Mid
+1553,Finance,Quant Researcher,Entry,Contract,47248,70576,23-09-2023,Mid
+1554,Finance,Computer Vision Engineer,Entry,Full-time,66493,158190,27-10-2024,Startup
+1555,Retail,Data Analyst,Entry,Internship,114601,211800,08-02-2025,Large
+1556,Education,Data Scientist,Entry,Full-time,117083,171872,16-12-2024,Mid
+1557,Finance,ML Engineer,Entry,Full-time,109164,147105,19-01-2024,Large
+1558,Education,ML Engineer,Senior,Internship,140820,232170,19-09-2025,Startup
+1559,Tech,AI Product Manager,Mid,Remote,143360,229787,27-05-2025,Startup
+1560,Education,NLP Engineer,Senior,Internship,93833,129073,29-11-2024,Mid
+1561,Tech,ML Engineer,Entry,Internship,52854,117986,26-09-2024,Large
+1562,Healthcare,AI Product Manager,Senior,Remote,50279,67460,29-07-2025,Large
+1563,Automotive,Data Scientist,Senior,Full-time,50207,64822,04-06-2024,Mid
+1564,Finance,Computer Vision Engineer,Entry,Contract,49814,62288,06-07-2025,Mid
+1565,E-commerce,AI Product Manager,Senior,Internship,111908,130116,11-06-2025,Mid
+1566,Education,AI Researcher,Senior,Remote,109390,202587,12-06-2025,Large
+1567,E-commerce,NLP Engineer,Entry,Internship,101444,169137,11-07-2024,Large
+1568,Finance,Data Scientist,Entry,Full-time,117133,215594,05-09-2025,Large
+1569,E-commerce,Data Scientist,Senior,Contract,55477,100381,12-02-2024,Startup
+1570,Automotive,AI Product Manager,Entry,Full-time,92033,164027,07-12-2024,Mid
+1571,Healthcare,AI Researcher,Senior,Full-time,97058,148912,18-12-2024,Large
+1572,E-commerce,ML Engineer,Senior,Internship,70051,83613,01-11-2023,Large
+1573,Healthcare,ML Engineer,Mid,Full-time,125724,223370,07-04-2024,Startup
+1574,Finance,AI Product Manager,Senior,Contract,131442,152901,22-04-2024,Startup
+1575,Education,Quant Researcher,Senior,Remote,79312,97051,30-10-2023,Mid
+1576,Healthcare,Quant Researcher,Mid,Remote,115682,141436,17-09-2024,Startup
+1577,Tech,Data Analyst,Mid,Contract,138711,221786,16-06-2024,Mid
+1578,Retail,NLP Engineer,Entry,Full-time,46308,82147,27-07-2024,Mid
+1579,Finance,AI Researcher,Mid,Remote,46859,111642,16-03-2024,Mid
+1580,Retail,ML Engineer,Senior,Remote,135050,200313,25-06-2025,Startup
+1581,Healthcare,ML Engineer,Mid,Full-time,106176,132983,16-05-2024,Mid
+1582,Education,Data Analyst,Entry,Remote,61825,157940,03-01-2025,Mid
+1583,Finance,Quant Researcher,Mid,Contract,134559,195478,25-02-2025,Startup
+1584,Retail,AI Researcher,Mid,Full-time,79291,125380,25-07-2024,Startup
+1585,Retail,AI Product Manager,Entry,Contract,48218,71004,24-11-2024,Startup
+1586,E-commerce,AI Product Manager,Entry,Internship,42270,120885,22-08-2025,Mid
+1587,Retail,Data Analyst,Mid,Full-time,106925,155924,15-12-2023,Startup
+1588,E-commerce,AI Product Manager,Mid,Remote,129266,186688,22-02-2024,Startup
+1589,Retail,AI Product Manager,Mid,Full-time,119647,168743,02-07-2024,Mid
+1590,E-commerce,Data Scientist,Senior,Full-time,51216,149871,14-08-2024,Mid
+1591,Healthcare,AI Researcher,Senior,Internship,143939,227202,07-10-2023,Mid
+1592,Finance,Data Analyst,Entry,Full-time,99415,192561,28-11-2024,Large
+1593,Education,ML Engineer,Mid,Internship,92763,144582,08-10-2024,Mid
+1594,Retail,Data Scientist,Senior,Contract,87741,187018,26-05-2024,Startup
+1595,Healthcare,Data Scientist,Entry,Full-time,70119,104669,07-11-2024,Mid
+1596,Education,Data Scientist,Mid,Internship,96233,154946,03-07-2025,Startup
+1597,Healthcare,Data Scientist,Mid,Full-time,84163,157649,08-05-2024,Large
+1598,Automotive,AI Product Manager,Mid,Internship,108145,192990,30-06-2024,Startup
+1599,E-commerce,Computer Vision Engineer,Mid,Full-time,108715,193682,22-08-2025,Large
+1600,E-commerce,AI Product Manager,Senior,Full-time,147144,199817,09-03-2025,Large
+1601,Automotive,AI Product Manager,Entry,Remote,145610,225001,17-08-2024,Startup
+1602,Healthcare,Computer Vision Engineer,Mid,Contract,60515,146870,04-02-2025,Mid
+1603,Tech,Data Analyst,Entry,Internship,120811,193549,18-08-2025,Mid
+1604,Retail,Quant Researcher,Mid,Remote,61543,126761,27-07-2025,Startup
+1605,Healthcare,ML Engineer,Entry,Internship,147220,158056,17-10-2024,Startup
+1606,Retail,Data Analyst,Mid,Contract,63354,160413,27-11-2023,Startup
+1607,Tech,Quant Researcher,Senior,Full-time,131169,174872,15-02-2024,Mid
+1608,Healthcare,ML Engineer,Senior,Full-time,41566,134888,03-08-2024,Startup
+1609,E-commerce,Quant Researcher,Senior,Internship,118883,210460,08-02-2025,Startup
+1610,Tech,ML Engineer,Senior,Internship,95354,126587,10-06-2025,Startup
+1611,Healthcare,Computer Vision Engineer,Senior,Full-time,142291,215970,01-10-2023,Startup
+1612,Education,Computer Vision Engineer,Entry,Remote,40629,72042,23-05-2025,Mid
+1613,Tech,Data Scientist,Mid,Remote,54969,146111,10-11-2023,Mid
+1614,Education,Quant Researcher,Mid,Internship,108252,151627,21-08-2025,Startup
+1615,Education,AI Researcher,Senior,Remote,70656,152148,23-04-2024,Startup
+1616,E-commerce,ML Engineer,Senior,Contract,73293,127143,09-05-2025,Startup
+1617,Retail,AI Researcher,Mid,Remote,58659,98311,13-04-2024,Large
+1618,E-commerce,NLP Engineer,Entry,Remote,124301,140446,31-08-2024,Startup
+1619,Retail,AI Product Manager,Entry,Contract,113791,138812,21-09-2023,Large
+1620,Tech,Data Analyst,Mid,Remote,145000,223134,09-05-2025,Large
+1621,Education,AI Product Manager,Entry,Contract,90927,115940,04-12-2023,Mid
+1622,Tech,NLP Engineer,Entry,Remote,81624,95183,28-12-2023,Startup
+1623,Finance,Computer Vision Engineer,Senior,Full-time,99722,119999,26-02-2024,Startup
+1624,Healthcare,Data Analyst,Entry,Remote,102547,147531,11-01-2024,Startup
+1625,E-commerce,Quant Researcher,Mid,Internship,124126,178761,04-12-2024,Mid
+1626,Healthcare,Computer Vision Engineer,Mid,Internship,100455,199953,28-04-2024,Mid
+1627,Healthcare,ML Engineer,Mid,Full-time,142229,217303,12-12-2024,Mid
+1628,Automotive,NLP Engineer,Mid,Full-time,99303,165542,24-06-2024,Mid
+1629,Automotive,NLP Engineer,Mid,Remote,127730,194274,30-06-2024,Mid
+1630,Tech,Computer Vision Engineer,Mid,Full-time,68119,160582,10-02-2024,Startup
+1631,Education,Computer Vision Engineer,Entry,Contract,72082,92167,23-05-2025,Startup
+1632,Retail,Computer Vision Engineer,Mid,Full-time,124909,151333,06-10-2023,Large
+1633,Retail,Quant Researcher,Mid,Contract,102584,198324,15-10-2024,Startup
+1634,Automotive,AI Product Manager,Entry,Remote,51986,73985,14-10-2024,Mid
+1635,Tech,AI Researcher,Mid,Contract,132003,197338,20-09-2024,Startup
+1636,Healthcare,Data Analyst,Entry,Remote,44162,104297,03-07-2025,Large
+1637,Healthcare,Data Analyst,Senior,Contract,62381,112625,23-07-2024,Mid
+1638,Healthcare,Computer Vision Engineer,Entry,Internship,144304,184146,07-05-2025,Mid
+1639,Finance,AI Researcher,Mid,Internship,55918,137614,08-06-2025,Startup
+1640,Education,NLP Engineer,Entry,Contract,59275,147698,17-03-2025,Mid
+1641,Retail,Data Analyst,Mid,Full-time,51956,109837,10-08-2025,Mid
+1642,Automotive,NLP Engineer,Mid,Contract,61087,81523,08-08-2025,Large
+1643,Tech,ML Engineer,Mid,Internship,132865,203559,07-04-2024,Large
+1644,Finance,NLP Engineer,Senior,Remote,146176,197876,16-03-2025,Mid
+1645,Retail,Quant Researcher,Mid,Remote,92934,116186,14-07-2024,Mid
+1646,Education,Data Scientist,Senior,Full-time,116015,126987,22-03-2024,Large
+1647,Retail,AI Researcher,Senior,Internship,141959,220411,19-08-2024,Mid
+1648,Automotive,NLP Engineer,Senior,Internship,139741,206786,23-12-2024,Startup
+1649,E-commerce,Computer Vision Engineer,Senior,Internship,149199,230455,06-02-2025,Large
+1650,E-commerce,Data Analyst,Entry,Remote,115250,161664,24-12-2024,Startup
+1651,Education,Quant Researcher,Senior,Full-time,45887,128800,23-08-2025,Startup
+1652,Tech,AI Product Manager,Entry,Internship,59665,114017,26-10-2024,Mid
+1653,E-commerce,ML Engineer,Mid,Full-time,109287,149769,07-11-2023,Large
+1654,Automotive,AI Researcher,Mid,Internship,116431,187700,14-09-2024,Mid
+1655,Education,Computer Vision Engineer,Mid,Contract,126575,163610,20-06-2025,Mid
+1656,Finance,AI Researcher,Mid,Contract,41897,72820,13-01-2024,Startup
+1657,Tech,Data Scientist,Mid,Internship,40844,100312,05-09-2024,Large
+1658,Finance,Data Scientist,Entry,Full-time,100222,147306,18-07-2025,Large
+1659,Healthcare,Data Analyst,Mid,Internship,140982,222224,22-08-2024,Large
+1660,Automotive,NLP Engineer,Mid,Internship,78788,132832,26-12-2023,Large
+1661,Tech,AI Researcher,Entry,Remote,114070,148337,23-07-2025,Large
+1662,Healthcare,Data Scientist,Mid,Remote,76395,94209,08-12-2023,Large
+1663,Retail,Quant Researcher,Entry,Full-time,90605,115084,15-03-2024,Mid
+1664,Tech,Computer Vision Engineer,Mid,Internship,47724,147228,07-06-2024,Startup
+1665,Education,NLP Engineer,Mid,Contract,143188,230467,04-04-2024,Mid
+1666,E-commerce,AI Researcher,Mid,Remote,96395,136894,29-09-2023,Startup
+1667,Education,ML Engineer,Entry,Contract,98076,190690,13-07-2024,Startup
+1668,Retail,Data Analyst,Entry,Remote,134169,175155,04-05-2024,Mid
+1669,Finance,ML Engineer,Entry,Remote,132041,213587,16-05-2025,Large
+1670,E-commerce,Computer Vision Engineer,Entry,Internship,60346,76165,25-02-2024,Large
+1671,Finance,Data Scientist,Entry,Internship,129117,207452,27-11-2024,Large
+1672,Healthcare,AI Researcher,Mid,Full-time,119535,171930,09-01-2025,Startup
+1673,Automotive,NLP Engineer,Senior,Full-time,79319,134930,06-02-2025,Startup
+1674,Healthcare,Data Analyst,Senior,Full-time,120828,200601,17-05-2025,Large
+1675,Education,ML Engineer,Mid,Contract,70609,83950,14-01-2024,Mid
+1676,Finance,Quant Researcher,Mid,Remote,88910,103296,09-03-2025,Large
+1677,Tech,NLP Engineer,Entry,Remote,90926,181068,08-04-2025,Startup
+1678,E-commerce,AI Product Manager,Mid,Full-time,64447,150120,19-11-2024,Large
+1679,Education,AI Product Manager,Mid,Full-time,121010,149594,14-04-2025,Large
+1680,Automotive,ML Engineer,Mid,Contract,117833,141489,24-06-2024,Large
+1681,Retail,AI Researcher,Entry,Internship,51913,102370,03-10-2023,Large
+1682,E-commerce,Computer Vision Engineer,Mid,Contract,74357,107271,15-09-2024,Large
+1683,Automotive,Quant Researcher,Entry,Full-time,57249,146172,26-09-2024,Startup
+1684,Finance,Computer Vision Engineer,Entry,Contract,145971,240361,23-05-2025,Mid
+1685,Retail,AI Product Manager,Senior,Full-time,58633,95916,20-12-2023,Mid
+1686,Retail,Computer Vision Engineer,Senior,Internship,146101,170747,07-11-2023,Large
+1687,Retail,Computer Vision Engineer,Entry,Full-time,108220,173637,26-05-2025,Startup
+1688,E-commerce,Quant Researcher,Entry,Remote,131341,220958,01-12-2024,Large
+1689,Healthcare,Data Analyst,Mid,Contract,94305,136651,04-03-2024,Mid
+1690,Tech,Data Analyst,Mid,Internship,118072,133131,12-02-2024,Large
+1691,Tech,Computer Vision Engineer,Mid,Full-time,49623,89723,23-03-2024,Startup
+1692,Healthcare,AI Researcher,Entry,Internship,89682,171002,30-07-2024,Large
+1693,Healthcare,AI Product Manager,Mid,Contract,124069,218603,20-04-2025,Startup
+1694,Tech,Data Scientist,Mid,Remote,77044,89787,19-10-2023,Startup
+1695,Healthcare,Data Analyst,Entry,Internship,57934,125813,08-01-2025,Large
+1696,Retail,AI Researcher,Entry,Contract,40829,57416,01-02-2024,Mid
+1697,Automotive,Data Scientist,Entry,Internship,104387,170859,06-10-2023,Large
+1698,Automotive,Quant Researcher,Mid,Remote,129320,228375,06-01-2024,Mid
+1699,Finance,ML Engineer,Mid,Internship,137419,167806,11-09-2025,Large
+1700,Automotive,Computer Vision Engineer,Mid,Full-time,147739,162992,31-01-2024,Startup
+1701,Retail,AI Researcher,Entry,Remote,62811,122081,14-02-2025,Startup
+1702,Retail,Data Scientist,Senior,Full-time,136329,162722,30-11-2024,Large
+1703,E-commerce,Data Scientist,Senior,Internship,103453,183004,26-11-2024,Large
+1704,Finance,AI Product Manager,Mid,Remote,72972,126528,07-02-2025,Large
+1705,E-commerce,NLP Engineer,Senior,Full-time,82976,173654,22-10-2023,Large
+1706,E-commerce,Data Analyst,Entry,Remote,131943,173682,02-10-2023,Startup
+1707,Tech,AI Product Manager,Entry,Contract,82505,101984,05-08-2025,Mid
+1708,Education,Quant Researcher,Mid,Contract,68140,81958,24-03-2024,Mid
+1709,Retail,AI Product Manager,Senior,Internship,96190,108045,15-08-2024,Startup
+1710,Healthcare,Computer Vision Engineer,Mid,Internship,99962,156102,26-09-2023,Large
+1711,Tech,Data Analyst,Senior,Internship,83481,108793,21-12-2023,Mid
+1712,E-commerce,ML Engineer,Mid,Contract,64006,146071,21-01-2024,Startup
+1713,Finance,ML Engineer,Mid,Full-time,139090,189499,16-01-2025,Startup
+1714,Education,NLP Engineer,Mid,Full-time,128590,227043,12-04-2025,Mid
+1715,Finance,Quant Researcher,Senior,Remote,134084,221937,16-03-2024,Large
+1716,Tech,AI Researcher,Entry,Full-time,115909,139125,06-01-2025,Mid
+1717,Healthcare,AI Researcher,Senior,Internship,149070,195129,16-07-2025,Startup
+1718,Tech,Quant Researcher,Senior,Full-time,97778,137738,03-09-2024,Large
+1719,E-commerce,NLP Engineer,Senior,Internship,110485,197629,07-10-2023,Mid
+1720,Healthcare,Data Analyst,Entry,Contract,145486,222351,03-10-2024,Large
+1721,Automotive,Data Analyst,Senior,Full-time,73608,161245,06-11-2024,Large
+1722,Finance,AI Researcher,Mid,Full-time,126809,151152,24-02-2025,Mid
+1723,Automotive,Computer Vision Engineer,Entry,Full-time,64760,118946,29-07-2024,Mid
+1724,Retail,Data Scientist,Entry,Full-time,52280,123227,19-06-2025,Mid
+1725,Healthcare,Data Analyst,Senior,Internship,68612,166635,08-06-2025,Startup
+1726,Retail,AI Product Manager,Entry,Internship,138615,197243,17-10-2023,Mid
+1727,E-commerce,AI Product Manager,Entry,Internship,121197,202610,29-09-2023,Startup
+1728,Tech,AI Product Manager,Mid,Internship,134410,177448,27-09-2023,Large
+1729,Healthcare,Quant Researcher,Entry,Internship,80993,138061,28-11-2023,Mid
+1730,Education,NLP Engineer,Mid,Internship,77685,142876,29-09-2024,Large
+1731,Retail,AI Product Manager,Mid,Full-time,125294,146737,29-08-2024,Startup
+1732,Healthcare,Data Analyst,Senior,Internship,127211,147416,20-03-2025,Startup
+1733,Healthcare,ML Engineer,Senior,Full-time,122827,192222,27-05-2024,Startup
+1734,Healthcare,Data Scientist,Entry,Remote,76718,113040,07-11-2023,Mid
+1735,E-commerce,Data Scientist,Entry,Full-time,69019,161590,15-05-2025,Large
+1736,Automotive,AI Product Manager,Entry,Remote,118645,155704,03-03-2025,Startup
+1737,Automotive,Quant Researcher,Entry,Internship,92698,140658,21-03-2024,Large
+1738,Healthcare,Data Analyst,Senior,Remote,136382,182715,14-02-2025,Startup
+1739,Retail,Computer Vision Engineer,Mid,Full-time,149696,227014,22-08-2024,Large
+1740,Education,ML Engineer,Entry,Remote,71669,113847,21-12-2023,Mid
+1741,Healthcare,Data Analyst,Senior,Internship,119078,145795,15-03-2024,Large
+1742,Healthcare,Data Scientist,Senior,Full-time,126591,151914,14-12-2023,Mid
+1743,Tech,Quant Researcher,Mid,Internship,121727,184486,21-09-2024,Mid
+1744,Finance,NLP Engineer,Senior,Full-time,90376,118923,13-02-2025,Startup
+1745,Retail,Computer Vision Engineer,Senior,Remote,132851,157092,26-09-2023,Large
+1746,Tech,AI Researcher,Mid,Full-time,134738,212228,22-07-2025,Mid
+1747,Healthcare,AI Researcher,Senior,Internship,107785,120214,03-04-2024,Startup
+1748,Tech,Data Analyst,Mid,Remote,125072,185338,07-12-2023,Large
+1749,E-commerce,Data Analyst,Mid,Internship,117423,185384,22-09-2024,Startup
+1750,Healthcare,Data Scientist,Entry,Contract,82983,154304,04-02-2025,Startup
+1751,Education,ML Engineer,Senior,Internship,44946,127238,04-06-2024,Large
+1752,Tech,Data Analyst,Senior,Remote,138174,196751,25-03-2025,Large
+1753,Tech,NLP Engineer,Entry,Internship,141056,174505,12-12-2024,Mid
+1754,Retail,NLP Engineer,Mid,Full-time,56727,128729,14-12-2023,Startup
+1755,E-commerce,AI Researcher,Mid,Internship,118148,188104,23-04-2025,Startup
+1756,Education,AI Researcher,Entry,Contract,139066,166070,26-04-2024,Large
+1757,Automotive,Data Scientist,Mid,Full-time,108653,184973,24-10-2024,Large
+1758,Healthcare,Computer Vision Engineer,Entry,Internship,89361,142061,10-03-2024,Mid
+1759,Healthcare,ML Engineer,Entry,Contract,63877,154660,24-07-2025,Large
+1760,Healthcare,Data Scientist,Senior,Contract,126539,221782,31-12-2024,Startup
+1761,Finance,Data Scientist,Senior,Internship,148786,200150,06-12-2024,Startup
+1762,Finance,ML Engineer,Entry,Remote,119811,192662,13-08-2024,Large
+1763,Retail,Quant Researcher,Entry,Contract,81526,98544,03-01-2024,Large
+1764,Healthcare,AI Product Manager,Senior,Contract,121033,138940,08-05-2025,Startup
+1765,Education,Data Analyst,Mid,Internship,72934,95192,29-07-2024,Startup
+1766,Tech,Quant Researcher,Mid,Full-time,44039,63263,01-02-2024,Startup
+1767,Healthcare,AI Product Manager,Entry,Remote,46970,125252,14-03-2025,Mid
+1768,Tech,Computer Vision Engineer,Entry,Contract,118416,199499,27-09-2024,Mid
+1769,E-commerce,AI Product Manager,Entry,Remote,65640,83693,11-07-2024,Startup
+1770,Education,Computer Vision Engineer,Mid,Contract,81177,94986,31-05-2024,Large
+1771,Tech,Computer Vision Engineer,Mid,Internship,103151,196428,16-12-2024,Startup
+1772,Automotive,Computer Vision Engineer,Entry,Internship,117069,178784,08-12-2023,Startup
+1773,Education,Data Analyst,Entry,Full-time,113673,155142,29-05-2024,Large
+1774,E-commerce,NLP Engineer,Senior,Full-time,138749,165833,21-01-2025,Startup
+1775,Finance,Quant Researcher,Entry,Remote,100978,164897,09-01-2025,Large
+1776,Automotive,Data Scientist,Senior,Full-time,108286,185587,17-07-2025,Mid
+1777,Finance,AI Researcher,Entry,Internship,56159,125898,20-03-2024,Startup
+1778,Retail,Data Scientist,Entry,Contract,77346,131068,06-10-2024,Startup
+1779,Finance,Computer Vision Engineer,Mid,Remote,50711,112317,25-02-2024,Mid
+1780,E-commerce,AI Product Manager,Entry,Remote,105715,122718,23-01-2024,Large
+1781,Retail,Data Scientist,Mid,Full-time,65347,115073,08-05-2024,Startup
+1782,Education,NLP Engineer,Senior,Internship,119430,197885,02-05-2025,Mid
+1783,Healthcare,Data Scientist,Mid,Remote,148872,221944,06-12-2023,Mid
+1784,E-commerce,Quant Researcher,Mid,Remote,59784,116141,02-10-2024,Mid
+1785,Healthcare,AI Product Manager,Senior,Full-time,100903,151186,28-12-2024,Startup
+1786,Education,Computer Vision Engineer,Mid,Full-time,101903,111989,30-12-2023,Large
+1787,Retail,ML Engineer,Entry,Contract,147468,228501,12-11-2023,Mid
+1788,Finance,Computer Vision Engineer,Senior,Full-time,127777,214097,24-04-2024,Mid
+1789,Finance,AI Researcher,Senior,Remote,75757,96179,03-08-2024,Startup
+1790,Tech,AI Researcher,Mid,Internship,114948,190372,08-10-2024,Large
+1791,Healthcare,Data Analyst,Entry,Remote,77386,96514,10-03-2025,Mid
+1792,Finance,Data Analyst,Senior,Contract,69451,119444,23-11-2023,Mid
+1793,Retail,Data Scientist,Senior,Contract,104456,117390,28-02-2024,Mid
+1794,Retail,AI Researcher,Senior,Remote,148709,198017,30-08-2025,Mid
+1795,Tech,AI Product Manager,Mid,Internship,103079,119522,08-05-2025,Large
+1796,Finance,Data Scientist,Entry,Full-time,113860,151781,26-07-2024,Large
+1797,E-commerce,Data Analyst,Senior,Full-time,74945,103128,14-12-2024,Startup
+1798,Healthcare,ML Engineer,Senior,Full-time,92486,179935,13-12-2023,Large
+1799,Healthcare,Data Scientist,Entry,Remote,106180,184308,23-09-2024,Large
+1800,Automotive,AI Researcher,Mid,Remote,132233,160821,09-06-2024,Mid
+1801,Education,ML Engineer,Senior,Internship,91241,125804,26-07-2024,Startup
+1802,Finance,Computer Vision Engineer,Senior,Full-time,110000,185537,27-04-2024,Startup
+1803,Education,ML Engineer,Mid,Internship,52748,92984,21-10-2024,Mid
+1804,Tech,ML Engineer,Entry,Remote,96779,134713,22-08-2024,Mid
+1805,Automotive,AI Product Manager,Mid,Remote,104125,191894,17-07-2024,Startup
+1806,E-commerce,Data Scientist,Senior,Contract,69252,109380,28-11-2023,Mid
+1807,Education,Quant Researcher,Entry,Full-time,111030,208765,21-05-2024,Mid
+1808,Education,AI Product Manager,Senior,Remote,41699,59726,12-01-2025,Startup
+1809,E-commerce,Data Scientist,Entry,Contract,106640,124170,14-08-2024,Large
+1810,Automotive,Computer Vision Engineer,Entry,Contract,100995,196234,02-06-2025,Large
+1811,Retail,Data Analyst,Mid,Remote,45889,122997,20-03-2024,Startup
+1812,Finance,Data Analyst,Entry,Remote,143526,170125,29-03-2024,Large
+1813,Retail,NLP Engineer,Mid,Full-time,50742,114775,07-05-2025,Large
+1814,Education,NLP Engineer,Senior,Internship,92504,103546,27-04-2024,Mid
+1815,Tech,NLP Engineer,Senior,Full-time,140645,172949,20-12-2023,Mid
+1816,Tech,Computer Vision Engineer,Senior,Full-time,67314,88216,04-10-2023,Mid
+1817,Education,Data Scientist,Mid,Internship,116027,190410,19-02-2025,Startup
+1818,Education,ML Engineer,Mid,Internship,55995,137734,18-03-2025,Large
+1819,Finance,ML Engineer,Entry,Contract,79142,150174,01-09-2025,Startup
+1820,E-commerce,Data Analyst,Entry,Internship,49729,93113,27-01-2024,Mid
+1821,Education,ML Engineer,Mid,Remote,133127,147369,21-08-2024,Large
+1822,Healthcare,AI Researcher,Entry,Contract,64534,127901,08-04-2025,Large
+1823,Healthcare,Data Analyst,Mid,Full-time,100195,144148,25-12-2023,Startup
+1824,Finance,Data Analyst,Entry,Full-time,65884,114586,22-09-2023,Startup
+1825,Education,Data Scientist,Mid,Contract,110008,207656,24-11-2023,Large
+1826,Retail,AI Product Manager,Entry,Internship,141080,176268,10-09-2024,Startup
+1827,Healthcare,NLP Engineer,Mid,Full-time,98451,116247,27-08-2024,Mid
+1828,E-commerce,AI Product Manager,Entry,Remote,92936,189944,07-03-2024,Startup
+1829,Automotive,AI Product Manager,Senior,Internship,95352,123255,19-08-2025,Mid
+1830,E-commerce,Quant Researcher,Mid,Contract,58077,99999,01-04-2025,Startup
+1831,Finance,Data Analyst,Mid,Remote,124312,151418,21-07-2024,Large
+1832,Healthcare,NLP Engineer,Senior,Remote,93786,129779,19-07-2024,Large
+1833,Tech,Computer Vision Engineer,Mid,Internship,110572,124509,14-01-2024,Large
+1834,Finance,Data Analyst,Entry,Full-time,51641,93894,30-11-2024,Large
+1835,Tech,NLP Engineer,Senior,Full-time,51700,88420,08-03-2024,Large
+1836,Automotive,ML Engineer,Entry,Internship,116899,150888,03-12-2023,Startup
+1837,Automotive,Data Analyst,Mid,Remote,81196,159549,08-08-2025,Large
+1838,Healthcare,Quant Researcher,Entry,Internship,59030,80182,08-06-2024,Large
+1839,Education,Quant Researcher,Entry,Contract,64001,154291,30-07-2024,Mid
+1840,Healthcare,Quant Researcher,Mid,Full-time,107796,134517,24-03-2024,Startup
+1841,Tech,Data Scientist,Entry,Remote,71884,105313,01-08-2024,Large
+1842,Tech,Data Scientist,Senior,Full-time,147074,174771,05-01-2025,Large
+1843,Tech,AI Product Manager,Mid,Full-time,92572,114371,13-08-2025,Large
+1844,Education,AI Product Manager,Mid,Remote,102870,113156,23-03-2025,Mid
+1845,Tech,NLP Engineer,Mid,Internship,120347,143612,17-04-2024,Mid
+1846,E-commerce,Data Scientist,Senior,Internship,75231,145702,27-12-2023,Startup
+1847,Healthcare,Data Scientist,Senior,Internship,58470,121970,23-02-2025,Large
+1848,Automotive,NLP Engineer,Entry,Full-time,106459,135097,28-08-2025,Mid
+1849,Tech,ML Engineer,Mid,Remote,122945,203527,31-05-2025,Large
+1850,Education,Data Analyst,Mid,Internship,124091,191684,09-03-2024,Startup
+1851,Automotive,Computer Vision Engineer,Senior,Full-time,137315,197039,19-03-2024,Startup
+1852,Healthcare,AI Researcher,Entry,Remote,106512,143521,23-01-2025,Large
+1853,Retail,NLP Engineer,Mid,Contract,98138,173798,12-06-2025,Mid
+1854,Finance,Computer Vision Engineer,Entry,Internship,135742,157917,24-11-2024,Large
+1855,E-commerce,ML Engineer,Senior,Internship,83533,101505,23-07-2024,Mid
+1856,Healthcare,Computer Vision Engineer,Entry,Remote,121547,203993,23-10-2023,Mid
+1857,Retail,Data Analyst,Entry,Contract,120806,164790,05-08-2025,Large
+1858,Tech,Computer Vision Engineer,Mid,Internship,98170,187910,11-07-2024,Startup
+1859,Education,Data Analyst,Senior,Internship,69719,121288,23-10-2024,Startup
+1860,Education,Quant Researcher,Mid,Internship,149745,219560,21-09-2023,Large
+1861,Healthcare,AI Product Manager,Entry,Internship,121766,167056,07-06-2024,Mid
+1862,Automotive,Quant Researcher,Senior,Remote,134147,151699,17-09-2025,Mid
+1863,Finance,AI Researcher,Mid,Remote,120540,186828,05-12-2023,Mid
+1864,Finance,AI Researcher,Entry,Contract,109782,188846,31-10-2023,Large
+1865,Finance,NLP Engineer,Senior,Full-time,122408,206048,26-08-2025,Mid
+1866,Healthcare,Quant Researcher,Mid,Internship,58854,124327,04-07-2025,Large
+1867,Automotive,Quant Researcher,Entry,Internship,88941,139505,09-11-2024,Startup
+1868,Retail,Data Analyst,Entry,Internship,72495,145673,20-11-2024,Mid
+1869,Retail,Computer Vision Engineer,Senior,Internship,82814,179347,26-05-2025,Startup
+1870,Finance,ML Engineer,Mid,Internship,116933,134438,16-09-2024,Mid
+1871,Finance,AI Product Manager,Senior,Internship,98712,188424,17-07-2024,Startup
+1872,E-commerce,Data Analyst,Mid,Internship,60237,131972,08-06-2024,Mid
+1873,Automotive,Data Scientist,Mid,Contract,107898,200535,10-04-2024,Large
+1874,Automotive,Computer Vision Engineer,Entry,Remote,139581,152762,03-09-2025,Startup
+1875,Healthcare,AI Product Manager,Senior,Contract,75241,170085,04-02-2025,Large
+1876,Education,Quant Researcher,Mid,Contract,137255,202108,08-09-2024,Startup
+1877,Finance,Data Scientist,Mid,Full-time,85959,155778,16-04-2025,Mid
+1878,Retail,Quant Researcher,Mid,Remote,127608,200088,20-08-2024,Large
+1879,Education,Computer Vision Engineer,Senior,Full-time,108442,183191,13-12-2023,Large
+1880,Education,Data Scientist,Mid,Contract,130051,206373,11-04-2024,Large
+1881,Tech,Data Analyst,Mid,Internship,97481,117918,10-08-2025,Large
+1882,Retail,ML Engineer,Entry,Contract,94087,155660,29-12-2023,Mid
+1883,Tech,ML Engineer,Entry,Full-time,70792,91387,02-01-2025,Mid
+1884,Tech,NLP Engineer,Mid,Full-time,68291,154121,23-12-2023,Startup
+1885,Automotive,Data Analyst,Entry,Internship,137372,221784,09-03-2024,Large
+1886,Automotive,AI Researcher,Entry,Remote,83107,169161,16-01-2025,Large
+1887,Retail,AI Researcher,Mid,Internship,88435,184953,22-07-2025,Large
+1888,Tech,AI Product Manager,Senior,Full-time,136510,188862,02-10-2023,Large
+1889,Automotive,Data Analyst,Senior,Remote,143200,155406,12-06-2025,Large
+1890,Retail,Computer Vision Engineer,Entry,Contract,82823,182473,13-08-2024,Mid
+1891,Automotive,NLP Engineer,Senior,Remote,109348,119746,28-04-2025,Mid
+1892,Retail,ML Engineer,Entry,Internship,65370,116822,13-09-2025,Large
+1893,Retail,Data Analyst,Senior,Remote,131317,223043,05-01-2025,Large
+1894,Automotive,Quant Researcher,Senior,Full-time,87751,118275,16-10-2023,Mid
+1895,Finance,Data Scientist,Entry,Remote,119481,186317,24-07-2024,Startup
+1896,E-commerce,AI Researcher,Senior,Remote,94861,166400,12-10-2024,Startup
+1897,Finance,ML Engineer,Senior,Remote,114821,195654,09-04-2024,Large
+1898,E-commerce,Quant Researcher,Entry,Internship,137105,162867,23-10-2024,Mid
+1899,Healthcare,Computer Vision Engineer,Mid,Internship,73444,83704,04-10-2024,Startup
+1900,Retail,ML Engineer,Mid,Full-time,76464,92375,19-12-2024,Mid
+1901,E-commerce,AI Product Manager,Entry,Remote,129651,170616,29-12-2024,Mid
+1902,Retail,NLP Engineer,Senior,Remote,145357,162928,31-05-2024,Startup
+1903,Education,Data Scientist,Senior,Internship,130772,144979,15-11-2024,Startup
+1904,E-commerce,Data Analyst,Senior,Contract,71169,107210,10-10-2024,Mid
+1905,Automotive,Data Analyst,Mid,Remote,108790,120569,04-07-2025,Startup
+1906,Retail,ML Engineer,Entry,Remote,87504,161685,30-03-2024,Large
+1907,Finance,Data Analyst,Mid,Full-time,83696,154585,14-01-2024,Mid
+1908,Automotive,AI Researcher,Senior,Full-time,45038,106353,22-01-2025,Startup
+1909,Tech,AI Researcher,Senior,Remote,52265,124743,22-04-2025,Mid
+1910,Automotive,Data Analyst,Mid,Internship,147433,197450,20-05-2025,Mid
+1911,Education,Quant Researcher,Entry,Internship,129069,209902,30-08-2025,Mid
+1912,Automotive,NLP Engineer,Entry,Full-time,53182,143456,22-12-2024,Startup
+1913,Tech,AI Product Manager,Entry,Internship,78877,155191,18-07-2025,Mid
+1914,Tech,AI Product Manager,Mid,Full-time,79490,119269,30-07-2024,Large
+1915,Education,Computer Vision Engineer,Senior,Internship,46931,121518,11-10-2023,Mid
+1916,Education,AI Researcher,Senior,Full-time,62605,95713,06-04-2025,Startup
+1917,Automotive,Data Analyst,Entry,Internship,138097,199176,18-11-2023,Large
+1918,E-commerce,Data Analyst,Entry,Contract,99857,141489,17-09-2024,Mid
+1919,Retail,Data Analyst,Senior,Remote,107295,174101,20-02-2024,Mid
+1920,Tech,NLP Engineer,Entry,Full-time,123053,222983,19-01-2025,Mid
+1921,Finance,AI Researcher,Mid,Contract,93939,149687,27-08-2024,Startup
+1922,Education,NLP Engineer,Entry,Internship,127132,172973,22-01-2025,Startup
+1923,E-commerce,AI Researcher,Mid,Full-time,68948,95321,03-11-2023,Large
+1924,Healthcare,ML Engineer,Entry,Internship,117098,171168,06-08-2025,Mid
+1925,Healthcare,ML Engineer,Entry,Full-time,68093,162110,02-09-2025,Mid
+1926,Tech,AI Researcher,Mid,Internship,149051,234508,17-10-2024,Large
+1927,Finance,NLP Engineer,Mid,Internship,68849,114222,20-02-2025,Large
+1928,E-commerce,ML Engineer,Entry,Contract,149671,239816,16-07-2024,Mid
+1929,Finance,ML Engineer,Mid,Full-time,70538,169148,16-07-2024,Mid
+1930,Healthcare,NLP Engineer,Entry,Internship,46559,58913,20-01-2025,Large
+1931,Education,Data Analyst,Mid,Remote,56010,132808,16-11-2023,Large
+1932,Healthcare,AI Researcher,Mid,Remote,97069,179529,07-12-2023,Startup
+1933,Retail,Data Scientist,Entry,Contract,50988,141937,22-08-2025,Large
+1934,E-commerce,AI Researcher,Entry,Contract,127429,145986,28-07-2025,Startup
+1935,Retail,NLP Engineer,Senior,Internship,114412,158034,19-05-2024,Startup
+1936,Automotive,NLP Engineer,Entry,Remote,77143,134656,13-03-2025,Mid
+1937,Retail,Computer Vision Engineer,Senior,Internship,41541,62798,25-04-2024,Mid
+1938,E-commerce,Data Scientist,Senior,Remote,53775,65900,08-05-2024,Large
+1939,Retail,Data Scientist,Senior,Full-time,56922,108481,03-02-2024,Large
+1940,Healthcare,AI Product Manager,Entry,Remote,73378,85805,10-05-2025,Mid
+1941,E-commerce,NLP Engineer,Senior,Full-time,138785,238009,15-08-2024,Startup
+1942,E-commerce,NLP Engineer,Entry,Contract,76728,116756,12-05-2024,Large
+1943,Finance,Data Analyst,Entry,Contract,76471,130897,15-01-2024,Mid
+1944,E-commerce,NLP Engineer,Entry,Contract,110388,189599,01-01-2024,Mid
+1945,E-commerce,Data Scientist,Entry,Remote,89874,154358,08-08-2025,Large
+1946,Education,Quant Researcher,Mid,Internship,58207,79736,19-11-2023,Large
+1947,Automotive,Quant Researcher,Entry,Remote,71100,143266,01-07-2025,Startup
+1948,E-commerce,Quant Researcher,Entry,Internship,137029,236175,16-09-2025,Mid
+1949,Education,Data Scientist,Senior,Contract,113059,195940,20-04-2025,Mid
+1950,Healthcare,Data Analyst,Mid,Internship,77836,97801,17-06-2024,Large
+1951,Finance,Quant Researcher,Mid,Internship,134973,214730,06-07-2025,Mid
+1952,Education,Data Analyst,Mid,Internship,52949,102386,14-07-2025,Mid
+1953,Healthcare,Data Analyst,Senior,Internship,119299,146767,15-10-2024,Large
+1954,Tech,NLP Engineer,Entry,Remote,83982,166278,30-08-2025,Large
+1955,Automotive,ML Engineer,Entry,Remote,48725,96277,17-11-2023,Large
+1956,Finance,Quant Researcher,Mid,Contract,149725,238111,24-04-2025,Large
+1957,Healthcare,NLP Engineer,Senior,Internship,125120,171165,11-02-2025,Large
+1958,Tech,Data Scientist,Entry,Internship,92960,134856,22-10-2023,Mid
+1959,Education,AI Researcher,Mid,Remote,84627,107657,02-05-2024,Mid
+1960,Education,Computer Vision Engineer,Senior,Internship,113567,141815,08-03-2025,Mid
+1961,E-commerce,Data Scientist,Mid,Contract,40402,80152,22-04-2025,Large
+1962,E-commerce,Data Scientist,Senior,Internship,130661,211849,04-11-2024,Mid
+1963,Automotive,Quant Researcher,Entry,Internship,49531,66613,25-07-2025,Mid
+1964,Education,Quant Researcher,Mid,Remote,130480,180145,05-09-2025,Large
+1965,Finance,Data Scientist,Mid,Remote,74440,100994,06-02-2025,Mid
+1966,Tech,Quant Researcher,Senior,Full-time,125311,197070,27-01-2025,Startup
+1967,Education,AI Researcher,Entry,Contract,69924,129065,13-12-2024,Startup
+1968,E-commerce,ML Engineer,Mid,Remote,143317,202861,23-10-2023,Large
+1969,Automotive,AI Researcher,Mid,Remote,107946,202170,20-06-2024,Large
+1970,Finance,Data Scientist,Mid,Remote,104516,120254,29-01-2024,Mid
+1971,Tech,ML Engineer,Entry,Internship,100209,149987,02-08-2024,Large
+1972,Education,Data Analyst,Entry,Internship,125179,161443,14-05-2025,Startup
+1973,Education,AI Researcher,Senior,Full-time,74296,157397,20-06-2025,Mid
+1974,Automotive,ML Engineer,Senior,Contract,98345,185074,01-04-2025,Mid
+1975,Tech,Quant Researcher,Entry,Remote,109031,158268,31-08-2025,Startup
+1976,Education,Computer Vision Engineer,Senior,Contract,117323,142634,20-04-2025,Large
+1977,Tech,Data Analyst,Mid,Contract,63685,117966,06-03-2024,Startup
+1978,Tech,Data Analyst,Senior,Remote,85582,159454,13-07-2024,Large
+1979,E-commerce,AI Product Manager,Senior,Full-time,140375,162701,09-11-2024,Large
+1980,Finance,AI Product Manager,Mid,Internship,72541,113000,18-03-2024,Mid
+1981,E-commerce,AI Product Manager,Entry,Contract,62419,81701,11-09-2025,Startup
+1982,E-commerce,NLP Engineer,Senior,Remote,83082,168419,23-03-2024,Startup
+1983,Finance,ML Engineer,Mid,Contract,97924,129750,12-09-2025,Startup
+1984,Automotive,AI Researcher,Senior,Full-time,126658,206526,06-08-2024,Startup
+1985,Automotive,Data Analyst,Mid,Contract,46246,137067,02-05-2025,Mid
+1986,Finance,Data Analyst,Entry,Full-time,138115,160417,30-10-2024,Startup
+1987,Healthcare,Data Scientist,Entry,Contract,44089,122930,13-07-2024,Mid
+1988,Tech,ML Engineer,Senior,Internship,75187,168220,12-10-2024,Large
+1989,Finance,AI Product Manager,Mid,Remote,75937,160307,10-02-2025,Large
+1990,Tech,Data Scientist,Entry,Internship,101664,150656,09-01-2025,Startup
+1991,Finance,Computer Vision Engineer,Entry,Full-time,129971,201877,12-12-2024,Startup
+1992,Finance,Quant Researcher,Entry,Contract,77772,150810,14-02-2024,Startup
+1993,Automotive,Computer Vision Engineer,Mid,Contract,43959,65908,28-02-2025,Startup
+1994,Tech,NLP Engineer,Senior,Internship,149301,234157,08-01-2025,Mid
+1995,Education,AI Researcher,Mid,Full-time,63305,152463,30-01-2025,Startup
+1996,Finance,NLP Engineer,Senior,Internship,90382,110126,22-04-2024,Large
+1997,Automotive,AI Product Manager,Mid,Remote,47848,137195,02-12-2023,Large
+1998,Education,Data Analyst,Entry,Contract,134994,180108,29-10-2023,Large
+1999,Education,Quant Researcher,Senior,Contract,62388,82539,10-08-2024,Large
+2000,Finance,Quant Researcher,Senior,Full-time,55835,97374,20-02-2025,Startup
